@@ -107,8 +107,12 @@ oportunidades, las metas compartidas y valores.
 
 ## Operacionalización
 
-![Operacionalización de Mapping Social
-Cohesion](inputs/images/mapping.jpg)
+```{r mapping, echo=FALSE, fig.cap="Operacionalización de Mapping Social Cohesion"}
+knitr::include_graphics(path = "inputs/images/mapping.jpg")
+```
+
+
+
 
 El concepto de cohesión social es operacionalizado inicialmente en 5
 dimensiones.

@@ -148,8 +148,10 @@ de las versiones del estudio.
 El Scanlon-Monash Index de Cohesión Social esta compuesto por 5
 dimensiones que resumen los dominions del concepto.
 
-![Operacionalización del Índice de Cohesión
-Social](inputs/images/scalon.png)
+
+```{r scalon, echo=FALSE, fig.cap="Operacionalización del Índice de Cohesión Social"}
+knitr::include_graphics(path = "inputs/images/scalon.png")
+```
 
 La primera dimensión corresponde al **sentido de pertenencia** que
 incluye preguntas generales sobre el sentido de pertenencia, sentido de

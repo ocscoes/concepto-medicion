@@ -58,7 +58,10 @@ social. Este paso lógico hace posible identificar indicadores que están
 en el centro de la discusión y sobre los cuales existe mayor o menor
 acuerdo como medidas de cohesividad.
 
-![Síntesis de dimensiones](inputs/images/comun.jpg)
+```{r echo=FALSE, fig.cap="Síntesis de dimensiones"}
+knitr::include_graphics(path = "inputs/images/comun.jpg")
+```
+
 
 En un núcleo central, como observamos en la figura [figure:dimensiones],
 se pueden observar las dimensiones que se comparten en mayor medida para

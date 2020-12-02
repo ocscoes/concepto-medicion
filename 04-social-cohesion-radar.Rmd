@@ -75,8 +75,11 @@ distinto con diferentes indicadores producto de la disponibilidad de
 datos. Para cada subdimensiones se reportarán los indicadores utilizados
 en el cuarto periodo de tiempo (2009-2012).
 
-![Operacionalización del Radar de Cohesión
-Social](inputs/images/radar.png)
+
+```{r radar, echo=FALSE, fig.cap="Operacionalización del Radar de Cohesión Social]"}
+knitr::include_graphics(path = "inputs/images/radar.png")
+```
+
 
 Las relaciones sociales, en tanto redes horizontales que existen entre
 los individuos y grupos de la sociedad, está compuesto por redes
