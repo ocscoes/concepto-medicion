@@ -1,0 +1,234 @@
+---
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+# Social Cohesion Radar
+
+## Descripción General
+
+El Social Cohesion Radar (SCR) es un esfuerzo por aportar información al
+debate público sobre cohesión social, un mejor entendimiento de los
+cambios actuales y la proyección en el futuro. Su objetivo explícito es
+proveer al público general de una buena visualización de conjunto de los
+niveles y tendencias de la cohesión social tanto como una comprensión en
+profundidad de sus determinantes y resultados.
+
+El radar ha comparado la tendencia en la cohesión social de 34 países
+entre 1989 y 2012. La encuesta ha incluido 27 países miembros de la
+Unión Europea (sin Croacia) tanto como 7 naciones industrializadas de
+occidente (Estados Unidos, Canadá, Noruega, Suiza, Israel, Australia y
+Nueva Zelanda).
+
+Actualmente se trabaja en la identificación de causas, efectos y futuras
+tendencias. Esta es una iniciativa de Bertelsmann Stiftung en
+cooperación con académicos de la Jacobs University Bremen.
+
+Uno de los rasgos particulares del radar es que está hecho completamente
+en base a datos secundarios, es decir se reutilizan otros datos
+recopilados por los mismos u otros investigadores para medir cuestiones
+similares en los países objetos de estudio. Se señala que la utilización
+de datos secundarios tiene como ventaja que se realiza en base a datos
+validados y confiables de encuesta de gran escala en diferentes países.
+Dado que se reduce considerablemente los costos, hay un mayor alcance
+del estudio. Y, finalmente, es posible realizan el estudio de forma
+retrospectiva.
+
+## Concepto de Cohesión Social
+
+La conceptualización del SCR no difiere en gran medida de la experiencia
+australiana partiendo de la misma base de la incapacidad hasta ahora de
+haber generado una conceptualización unívoca del concepto aunque si de
+su multidimensionalidad.
+
+En este proyecto, se identifican de la misma forma tres aspectos comunes
+a las distintas definiciones de cohesión social. Al igual que SMISC la
+cohesión social es un atributo del colectivo y no de los sujetos en
+particular. También existe una gradualidad de la cohesión social, de tal
+forma que las sociedades, ciudades, barrios o grupos pueden ser más o
+menos cohesivos. Y, finalmente, los individuos pueden experimentar
+distintos niveles de bienestar con distintos niveles de cohesión social.
+Este último aspecto es un elemento no señalado explícitamente en la
+definición utilizada por el SMISC y que plantearía que la cohesión
+social no es un concepto positivo con valor en si mismo, sino que se
+debe contextualizar.
+
+La definición que ha elaborado el equipo del radar es que "Una sociedad
+cohesionada se caracteriza por relaciones sociales resilientes,
+conexiones emocionales positivas entre los miembros y la comunidad y una
+foco pronunciado en el bien común. Las relaciones sociales, en este
+contexto, son la red horizontal que existe entre los individuos y los
+grupos dentro de la sociedad. La conectividad refiere a los vínculos
+positivos entre individuos y sus países e instituciones. Un foco en el
+bien común finalmente, es reflejado en las acciones y actitudes de los
+miembros de la sociedad que demuestran responsabilidad por otros y por
+la comunidad como un todo. Estos son los tres aspectos central de la
+cohesión" [@dragolov2013social; @delhey_Happier_2016]
+
+## Operacionalización
+
+El concepto utilizado en el Radar de Cohesión Social esta compuesto por
+tres dimensiones que a su vez se dividen en tres dimensiones cada una.
+Estas dimensiones han sido evaluadas en cuatro periodos de tiempo
+distinto con diferentes indicadores producto de la disponibilidad de
+datos. Para cada subdimensiones se reportarán los indicadores utilizados
+en el cuarto periodo de tiempo (2009-2012).
+
+![Operacionalización del Radar de Cohesión
+Social](inputs/images/radar.png)
+
+Las relaciones sociales, en tanto redes horizontales que existen entre
+los individuos y grupos de la sociedad, está compuesto por redes
+sociales, confianza en las personas y aceptación de la diversidad. Una
+sociedad cohesionada debería presentar fuertes redes sociales, alto
+nivel de confianza en otros y considerar a individuos con diferentes
+estilos de vida y valores como iguales.
+
+*Redes sociales*
+
+-   Count on to help
+
+-   How much time during past week you felt lonely
+
+-   Support if needed advice on serious personal or family matter
+
+-   How often socially meet with friends, relatives or colleagues
+
+*Confianza en las personas*
+
+-   People try to be fair
+
+-   Most of the time people helpful
+
+-   People can be trusted
+
+*Aceptación de la diversidad*
+
+-   Country's culture undermined by immigrants
+
+-   Rating of religious tension (high score, low tension)
+
+-   City/area good place for: Racial/ethnic minorities
+
+-   Rating of ethnic tension (high score, low tension)
+
+-   City/area good place for: Gay or lesbian people
+
+-   Gays and lesbians free to live life as they wish
+
+La segunda dimensión de la cohesión es la conectividad entendida como
+los vínculos entre individuos, su país y sus instituciones. A su vez,
+esta dimensión está compuesta por tres subdimensiones: la
+identificación, la confianza en las instituciones y percepción de
+justicia. Un grupo altamente cohesionado debería tener una fuerte
+conexión e identificación con él, alta confianza en las instituciones y
+sentir que son tratados de forma justa. Los indicadores utilizados en el
+cuarto periodo son:
+
+*Identificación*
+
+-   How attached to country
+
+-   Ideally, would permanently move to another country
+
+*Confianza en las instituciones*
+
+-   Trust in parliament
+
+-   Trust in political parties
+
+-   Confidence in judicial system
+
+-   Confidence in local police
+
+-   Honesty of elections
+
+-   Confidence in health care
+
+-   Confidence in financial institutions
+
+*Percepción de justicia*
+
+-   To get ahead need to be corrupt
+
+-   Corruption within businesses
+
+-   Government should reduce differences in income levels
+
+-   Corruption (high score, low corruption)
+
+-   Tensions between the rich and the poor
+
+-   I earn what I deserve
+
+-   Pay about just for me
+
+La tercera y última dimensión corresponde al foco en el bien común cuyas
+tres subdimensiones son la solidaridad y amabilidad, respeto por las
+normas sociales y participación cívica. En este caso, un grupo
+cohesionado se caracteriza por que los miembros están preocupados por el
+bienestar de unos y otros, respeto y aceptación de reglas y normas, y
+participación en vida social y política. Los indicadores del cuarto
+periodo de tiempo son:
+
+*Solidaridad y amabilidad*
+
+-   Helped a stranger
+
+-   Unpaid voluntary work through community and social ser-vices
+
+-   Donated money
+
+*Respeto por las normas sociales*
+
+-   How wrong to commit traffic offense
+
+-   Size of shadow economy
+
+-   Feel safe walking alone at night
+
+*Participación cívica*
+
+-   Worked in association or organisation
+
+-   Signed a petition
+
+-   Worn or displayed campaign badge/sticker
+
+-   Interest in politics
+
+-   Voiced opinion to public official
+
+-   Volunteered time to organization
+
+-   Voting turnout in elections or referenda
+
+## Referencias
+
+1.  Bertelsmann-Foundation (2013). Social Cohesion Radar. Measuring
+    Common Ground. An International Comparison of Social Cohesion.
+    Gütersloh, Germany: Bertelsmann-Foundation.
+
+    En este informe los autores presentan los principales resultados del
+    índice de cohesión social para los distintos países en los que ha
+    sido construido. También se incluye una breve conceptualización de
+    lo que comprenden por cohesión social.
+
+2.  Bertelsmann-Foundation (2013). Social Cohesion Radar. Measuring
+    Common Ground. Methods Report. Gütersloh, Germany:
+    Bertelsmann-Foundation.
+
+    En este informe se detallan los aspectos metodológicos del índice.
+    Aquí se puede encontrar el detalle de los indicadores utilizados
+    para cada medición y las fuentes de información.
+
+3.  Delhey, J., & Dragolov, G. (2015). Happier together. Social cohesion
+    and subjective wellbeing in Europe. International Journal of
+    Psychology.
+
+    Este artículo utiliza los datos del índice de cohesión social del
+    radar para comprender cómo esta afecta al bienestar subjetivo para
+    27 países de la Unión Europea. Los resultados sugieren que europeos
+    en sociedades más cohesivas son más felices y saludables
+    sicológicamente.

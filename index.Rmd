@@ -1,0 +1,129 @@
+---
+title: "Observatorio de Cohesión Social"
+subtitle: "Experiencias internacional de monitoreo de la cohesión"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib, book-ocs.bib]
+csl: "inputs/bib/apa-no-ampersand.csl"
+biblio-style: apalike
+link-citations: yes
+# description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
+geometry: "left=4cm, right=3cm, top=2.5cm, bottom=2.5cm"
+fontsize: 12pt
+linestretch: 1.5
+toc-depth: 1
+lof: True
+lot: True
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(warning = FALSE,message = FALSE, cache = FALSE,out.width = '85%',fig.pos= "H")
+# knitr::opts_knit$set(base.url = "../") #relative path for .html output file
+# knitr::opts_knit$set(root.dir = "../") #relative path for chunks within .rmd files
+options(scipen=999)
+rm(list=ls())
+options(knitr.kable.NA = '',linesep = "")
+options(knitr.graphics.error = FALSE)
+Sys.setlocale("LC_ALL", "ES_ES.UTF-8")
+```
+
+```{r message=FALSE, warning=FALSE, include=FALSE, echo=FALSE}
+pacman::p_load(knitr, kableExtra, dplyr)
+```
+
+```{r echo=FALSE }
+table_format = if(is_html_output()) {
+  "html"
+} else if(is_latex_output()) {
+  "latex"
+}
+
+fullw = if(is_html_output()) {T} else if(is_latex_output()) {F}
+fsize = if(is_html_output()) {14} else if(is_latex_output()) {8}
+```
+
+# Introducción
+
+Este reporte es un insumo para la creación del Observatorio de Cohesión
+Social (OCS) del Centro de Estudios de Conflicto y Cohesión Social
+(COES) que tiene como objetivo aumentar y centralizar la disponibilidad
+de datos sobre cohesión social y ponerlos a disposición de la comunidad
+académica nacional e internacional, la ciudadanía y los hacedores de
+políticas públicas. Los datos e indicadores permitirán visualizar el
+estado y trayectoria de la cohesión social para diversos países, con
+especial énfasis en Chile.
+
+Particularmente, el primer objetivo específico (recolectar datos e
+indicadores internacionales sobre cohesión social, incluyendo su
+adecuada documentación) hace necesaria la revisión de experiencias
+internacionales que busquen monitorear la cohesión social en otros
+contextos.
+
+Como punto de partida de este esfuerzo por definir y operacionalizar la
+cohesión social para el OCS es necesario considerar algunos trabajos de
+carácter teórico que existen en Latino América. Uno de estos casos es el
+trabajo realizado por la CEPAL [@ottone2007cohesion] una respuesta a los
+problemas que afectan al continente, a saber, los altos índices de
+pobreza, desigualdad y diversas formas de discriminación y exclusión. La
+cohesión social en este caso está estrechamente vinculada a los valores
+democráticos y el respeto al estado de derecho. Así, la cohesión social
+tendría dos vertientes principales. Por un lado referiría a la capacidad
+de los mecanismos instituidos de inclusión social (sistema educacional,
+protección social, titularidad de derecho, etc.) como a los
+comportamientos y valores de los sujetos que conforman la sociedad
+(sentido de pertenencia, capital social, confianza en las instituciones,
+solidaridad, etc.)
+
+Otros de los casos destacados es el libro editado por Eugenio Tironi
+"Redes, Estados y Mercados: soportes de la cohesión social en América
+Latina "(2008) , en cuya introducción se entregan principios
+orientadores y una definición de cohesión social
+[@tironibarrios_Redes_2008] . Señalan que el concepto de cohesión social
+es tanto descriptivo, por señalar lo que une a la sociedad, como
+normativo por ponerla a la altura de los ideales que son propios de la
+democracia. Una sociedad cohesionada no es una sociedad cerrada en torno
+a determinados valores, sino la que permite que los sujetos se
+relacionen en torno a principios de justicia que al ser respetado dan
+fundamento al actuar cooperativo. Por eso, desde esta perspectiva el
+concepto supone un sentido de pertenencia moral y sujeción a reglas al
+estilo durkhemiano que son compatibilizados con la autonomía individual
+para las sociedades modernas. Sin embargo, la conciencia moral podría
+incluir elementos como la misma autonomía individual, la diferencia y la
+diversidad como principios orientadores.
+
+La revisión de experiencias internacionales en el monitoreo de cohesión
+social tiene cuatro focos centrales. En primer lugar, conocer en mayor
+detalle la estructura organizacional y objetivos de los proyectos
+existentes actualmente. En segundo lugar, revisar las definiciones
+conceptuales de cohesión social para entregar un marco general en el
+cuál focalizar la búsqueda de datos para el caso chileno. El tercer foco
+es la operacionalización que estas experiencias realizan del concepto
+para identificar indicadores a considerar en el OCS. Finalmente, cada
+revisión de las experiencias internacionales se concluye con un listado
+de referencias comentadas en donde se puede encontrar documentos de
+trabajo o aplicaciones de los datos levantados por cada uno de los
+proyectos.
+
+La selección de iniciativas internacionales buscó ser representativa
+geográficamente dado que las perspectivas sobre la cohesión social tiene
+un arraigo en los atributos socioculturales en los que estos se
+desarrollan: vínculos sociales o capital social en Estados Unidos por
+ejemplo o ampliación del Estado de Bienestar a grupos excluidos en
+Europa.
+
+Por esto se ha seleccionado el Scalon-Monash Index of Social Cohesión de
+Australia, el Social Cohesión Radar alemán con alcance internacional, el
+trabajo teórico Civic Engagement and Social Cohesion Report de los
+Estados Unidos, el clásico trabajo de Jenson [-@jenson1998mapping;
+-@jenson2010defining] Mapping Social Cohesion en Canadá y el proyecto
+ECOsociAL que comprendió a siete ciudades de Latinoamérica.
+
+Se espera que con este insumo se pueda avanzar en la concreción del
+objetivo específico 1 del proyecto del observatorio, que requiere de un
+análisis de la disponibilidad de indicadores internacionales de cohesión
+social a partir de conocer qué es lo que se ha considerado en otras
+iniciativas.

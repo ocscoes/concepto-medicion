@@ -1,0 +1,256 @@
+---
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+# Mapping Social Cohesion
+
+## Descripción General
+
+El trabajo de @jenson1998mapping en Canadá es uno de los trabajos
+pioneros que trató de dar orden a las discusiones sobre cohesión social.
+Se reconoce que a fines del siglo XX los organismos gubernamentales y no
+gubernamentales tenían una gran preocupación por el tema, pero no
+existía una definición clara de lo que implicaba y la diferencia que
+existía con otros conceptos asociados.
+
+El trabajo de Jenson nace de la Mesa de trabajo del Canadian Policy
+Research Network \`\`Mapping Social Cohesion" en diciembre de 1997. El
+objetivo fue identificar la literatura emergente en el tema y definir
+una agenda de investigación para hacer de estas ideas fundamentales una
+forma más operacional de aproximarse al problema. El estudio revisa
+analíticamente los orígenes del debate en la tradición sociológica hasta
+los conceptos más actuales, incluyendo el estado del arte en Canadá.
+Jenson señala textualmente que la "clarificación es el objetivo primario
+de este paper" (1998: 2).
+
+El trabajo fue financiado por Canadian Heritage, el Department of
+Justice Canada y The Kahanoff Foundation Nonprofit Sector Research
+Initiative.
+
+## Concepto de Cohesión Social
+
+La conceptualización de @jenson1998mapping ha sido un recurso de suma
+importancia para trabajos posteriores como el Scalon-Monash Index
+australiano que lo utilizan como punto de partida. Para Jenson (1998),
+la cohesión social es más un proceso que un estado o condición,
+involucrando un sentido de compromiso, y deseo o capacidad de vivir
+juntos en armonía.
+
+La revisión conceptual del autor lo lleva a plantear que la literatura
+ha reconocido a la cohesión social como una característica de la
+sociedad y no de los individuos. El concepto de cohesión social es un
+concepto con historia, partiendo de esta premisa es que
+@jenson2010defining plantea que han existido tres familias vinculadas al
+concepto con diferences aplicaciones empíricas.
+
+La primera vincula la cohesión social a la noción de inclusión social. A
+comienzo de los '80 la OCDE decidió revisar el concepto de cohesión
+social en orden a hacerlo compatible con la restructuración económica de
+los países miembros y a la vez sustentable en el tiempo. En este uso, se
+desprendía que la OCDE estaba homologando cohesión social con
+estabilidad social. Ya a comienzos del siglo XXI la UE orientaba sus
+políticas sociales en la misma dirección y definía el desarrollo
+económico y la cohesión social como objetivos principales. El Council of
+Europe (organismo de la Unión Europea) señalaba explícitamente: *"Social
+cohesion, as defined by the Directorate General of Social Cohesion of
+the Council of Europe, is a concept that includes values and principles
+which aim to ensure that all citizens, without discrimination and on an
+equal footing, have access to fundamental social and economic rights*".
+Se debe considerar que en esta conceptualización se tomó cuidado en
+sugerir que la integración no implicaba necesariamente formas
+tradicionales de integración social, siendo un concepto para una
+sociedad abierta y multicultural. No obstante, @jenson2010defining
+agrega que realmente no se estaba entregando una conceptualización clara
+de lo que significaba cohesión social: \`\`it does not define social
+cohesion as such but seeks to identify some of the factors in social
+cohesion ..." (citado por Jenson, 2010:5)
+
+La segunda línea de conceptualización de la cohesión social lo hace en
+relación a capital social o, incluso, como sinónimos. Para esta
+tradición el capital social es la herramienta práctica para lograr la
+cohesión social. El capital social no tan solo entrega recursos a los
+invididuos, como acceso a servicios especiales a menor costo o para que
+alguien cuide al hijo de una madre que debe ir a trabajar, sino que
+produce un bien colectivo al tener sociedades más saludables. A esta
+conceptualización liderada por Putnam, le siguieron una serie de
+críticas sobre su caracter positivo y si realmente era social
+considerando su enfoque focalizado en el individuo. Esto produjo el
+refinamiento del concepto introduciendose los conceptos de capital
+social bridging, bonding y linking.
+
+Y finalmente, una tercera familia de estudios se focaliza en las
+instituciones y la gobernanza liderada principalmente por el Banco
+Mundial. Esta definición se superpone a las dos anteriores, pero toma un
+caracter distinto. Señalan que los resultados económicos dependen de
+instituciones efectivas, y esta a su vez de la cohesión social. Por lo
+tanto, construir cohesión social es una tarea vital para el desarrollo.
+El desafío está puesto en la inclusión de las personas en la provisión
+de servicios públicos de forma equitativa y eficiente.
+
+Si bien @jenson2010defining no entrega una definición propia de la
+cohesión social, sino que una revisión del estado del arte en la
+materia, la Social Cohesion Network reemplaza su definición de cohesión
+social basada en valores por una más funcionalista fijada en las
+conductas: "la cohesión social está basada en la disposición de los
+individuos a cooperar y trabajar en todos los niveles de la sociedad
+para lograr metas comunes" [@Jeannote2003]
+
+La ventaja de esta definición y que la ha llevado a ser un referente
+para posteriores experiencias en todo el mundo es que se focaliza
+claramente en los resultados de la cohesión social y en el conjunto de
+indicadores para medir el stock de cohesión social en la sociedad (
+trabajar juntos, metas colectivas, cooperación, etc.). La tarea se
+simplifica si consideramos desde la definición la igualdad de
+oportunidades, las metas compartidas y valores.
+
+## Operacionalización
+
+![Operacionalización de Mapping Social
+Cohesion](inputs/images/mapping.jpg)
+
+El concepto de cohesión social es operacionalizado inicialmente en 5
+dimensiones.
+
+1.  Pertenencia/aislamiento: esta dimensión es más o menos compartida
+    por toda la literatura, y señala el grado en que los sujetos
+    comparten valores e identidades colectivas. Valores compartidos
+    permiten desarrollan un sentido de pertenencia y a la vez generar un
+    sentido de comunidad.
+
+2.  Inclusión/exclusión: esta dimensión tiene un carácter institucional
+    y en el mercado en particular como elemento central de la
+    modernidad.
+
+3.  Participación/no-involucramiento: la cohesión social requiere
+    involucramiento de parte de los sujetos. El desencantamiento con la
+    política pondría en riesgo la cohesión social y obliga también a los
+    gobiernos a fortalecer el tercer sector.
+
+4.  Reconocimiento/rechazo: se parte de la idea de que las sociedades
+    modernas son pluralistas en su sistema de valores. El pluralismo es
+    un bien y la tolerancia una meta. El rechazo, la intolerancia y
+    excesivos esfuerzos por lograr la unanimidad irían contra la idea de
+    reconocimiento de la diversidad.
+
+5.  Legitimidad/ilegitimidad: se señala que la intermediación necesaria
+    para vivir con los conflictos de valores no depende de los sujetos,
+    sino que es producto de las instituciones. Por lo tanto, en última
+    instancia la cohesión social depende de la legitimidad que tienen
+    las instituciones públicas y privadas en asegurar la cohesión
+    social.
+
+Con esto en mente, @jenson2010defining plantea tres set de indicadores.
+Un primer set de indicadores (1 - 5) corresponde a mediciones de
+disparidades sociales, y las brechas indicarías acceso desigual a
+recursos económicos y a servicios sociales básicos.
+
+1.  Cohesión social como inclusión social relacionada al acceso de
+    recursos financieros:
+
+    -   Coeficiente de Ginni
+
+    -   Mediciones de ingresos
+
+    -   Mediciones de pobreza (población viviendo con menos de 1 dolar,
+        población viviendo con menos de 2 dólares y población bajo la
+        línea de pobreza).
+
+2.  Cohesión social como inclusión social relacionada la actividad
+    económica:
+
+    -   Tasa de empleo (juvenil, femenina, minorías e inmigrantes)
+
+    -   Empleo en economía informal, como porcentaje del empleo total
+
+3.  Cohesión social como inclusión social relacionada con el acceso a
+    educación y capital humano:
+
+    -   Tasa de alfabetización (total, hombres y mujeres)
+
+    -   Porcentaje de población sobre 15 años que no ha completado
+        educación primaria (total, hombres y mujeres)
+
+    -   Porcentaje de población sobre 20 años que no ha completado
+        educación secundaria (total, hombres y mujeres)
+
+    -   Porcentaje de niños en edad de educación secundaria matriculados
+        en educación secundaria
+
+    -   Porcentaje de población entre 18 y 24 años en educación
+        terciaria
+
+4.  Cohesión social como inclusión social relacionada con el acceso a la
+    salud:
+
+    -   Esperanza de vida al nacer (en años)
+
+    -   Mortalidad infantil (por mil nacidos vivimos)
+
+    -   Mortalidad bajo 5 años (por mil)
+
+    -   Nacidos atendidos por equipo medido (porcentaje del total para
+        toda la población y para las minorías)
+
+5.  Cohesión social como inclusión social relacionada con el acceso a
+    tecnología:
+
+    -   Porcentaje de hogares con internet de banda ancha
+
+    El segundo tipo de indicadores corresponden a medidas de
+    homogeneidad cultural y étnicas vinculadas a la dimensión de
+    diversidad de la cohesión social. Más diversidad es considerado para
+    Jenson (2010) como un indicador de menos cohesión social.
+
+6.  Cohesión social como homogeneidad cultural y étnica
+
+    -   Porcentaje de extranjeros en la población
+
+    -   Fraccionalización étnica - índice que mide la probabilidad de
+        que dos personas seleccionadas aleatoriamente pertenezcan al
+        mismo grupo etnolinguístico
+
+    El tercer y último grupo de indicadores (7 - 8) corresponde a las
+    dimensiones de pertenencia y participación.
+
+7.  Cohesión social como confianza
+
+    -   Preguntas sobre confianza desde encuestas de opinión pública. El
+        autor plantea explícitamente la encuesta mundial de valores
+
+8.  Cohesión social como participación y solidaridad
+
+    -   Participación electoral como porcentaje de electores posibles
+        que participan en elecciones nacionales
+
+    -   Tasa de participación en asociaciones voluntarias. Nuevamente se
+        hace referencia a la encuesta mundial de valores.
+
+    -   Caridad. Porcentaje de personas que realizan donaciones.
+
+## Referencias
+
+1.  Jeannotte, M. (2003). Social Cohesion: Insights From Canadian
+    Research. Presented at the Conference on Social Cohesion, Hong Kong.
+    
+    En esta presentación la autora resume el trabajo de Jenson y la
+    influencia que este ha tenido en la conceptualización de la cohesión
+    social. Asimismo, es importante destacar que lo complementa los trabajos
+    de Bernard en Canadá.
+
+2.  Jenson, J. (1998). Mapping social cohesion: The state of Canadian
+    research (No. F03). Ottawa: CPRN.
+
+    Es el trabajo principal de desarrollo teórico de Jenson. Con este informe el concretiza el encargo de dar un panorama general de las conceptualizaciones de cohesión social
+
+3.  Jenson, J. (2010). Defining and Measuring Social Cohesion. Londres:
+    Commonwealth Secretariat.
+
+    En este libro, el autor actualiza la conceptualización de cohesión social y desarrolla el conjunto de indicadores para medirla que han sido incluidos en este informe
+
+4.  Jenson, J., & Saint-Martin, D. (2003). New routes to social
+    cohesion? Citizenship and the social investment state. Canadian
+    Journal of Sociology, 28(1), 77--99.
+
+    Este artículo es un ejemplo de la aplicación del trabajo que ha desarrollado Jenson desde la Universidad de Montreal como investigadora. Aquí plantea la importancia de la consideracipon de la cohesión para el rediseño de la estructura de bienestar y de la inversión social que deben realizar las comunidades políticas.

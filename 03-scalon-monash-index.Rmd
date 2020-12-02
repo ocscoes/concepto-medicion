@@ -1,0 +1,266 @@
+---
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+# Scanlon-Monash Index of Social Cohesion
+
+## Descripción General
+
+Este estudio ha sido realizado en Autralia 7 veces entre el 2007 y el
+2014. La Fundación Scalon, responsable del estudio, tiene como fin desde
+su creación en el 2001 contribuir a que Australia sea un país acogedor,
+próspero y cohesivo.
+
+En este marco, el estudio tiene por objetivo saber si en el futuro puede
+ser sostenible la migración y la cohesión social que han caracterizado a
+Australia desde la Segunda Guerra Mundial. De esta forma, el Monash
+Institute for the Study of Global Movements y el Australian
+Multicultural Foundation, con fondos de la Fundación Scanlon , encargó
+el profesor Dr. Andrew Markus [@markus_Attitudinal_2007;
+@markus2013mapping]de la Monash University diseñar y dirigir una
+medición de la cohesión social que sería repetida cada dos años. El
+estudio fue conducido por el Melbourne-based Social Research Centre.
+
+La cohesión social no es medida en abstracto, sino que se examina en el
+contexto del impacto social de periodo prolongado de inmigración
+significativa y sostenida. En los últimos años se ha profundizado con
+encuestas comparadas en áreas de alto nivel de inmigración. Esto es de
+relevancia, porque uno de los hallazgos más importantes del estudio ha
+sido que la inmigración es un recurso de tensión social y debe ser
+considerado por los estudios como los que realiza el COES. Estas
+encuestas locales han sido realizadas el 2009, 2012, 2013 y se ha
+planificado para el año 2015. Esto ha sido realizado desde el 2013 con
+fondos del gobierno federal, lo que demuestra un trabajo que ha
+involucrado a organizaciones sin fines de lucro, academia y ahora al
+gobierno.
+
+El proyecto tiene como objetivo explícito estimular a la discusión
+basada en evidencia sobre el crecimiento de la población australiana y
+la relación entre inmigración y cohesión social. Para esto, el
+componente principal es la disposición de un sitio web con la
+información, de la misma forma como se busca realizar con el
+Observatorio de Cohesión Social. En este caso el sitio se denomina
+"Mapping Australia's Population".
+
+El sitio entrega información para la discusión de políticas públicas
+sobre inmigración y cohesión social en base a los datos de la encuesta.
+Aunque existe un repositorio con encuestas que han sido conducidas en
+Australia y con una regular actualización.
+
+En cuando al diseño muestral, el 2014 se utilizaron dos muestras.
+Primero, el tradicional muestreo bietápico realizado desde la primera
+versión del instrumento basado en el universo de adultos con línea
+telefónica al que se le agregaron las personas con teléfono celular
+(1.526). La segunda muestra de australianos con ambos padres
+australianos es de internet (1.070), incorporando diseños
+experimentales.
+
+En cuanto a las características del instrumento, todos los años se han
+aplicado los 18 indicadores del Índice Scalon-Monash de Cohesión Social.
+La aplicación online es igual a la telefónica, pero adicionando 17
+preguntas de identidad, diversidad cultural e integración. Para el 2014,
+el cuestionario fue de 65 preguntas y una aplicación de 16.2 minutos de
+duración promedio.
+
+## Concepto de Cohesión Social
+
+El concepto que utilizan en el SMISC (Scanlon-Monash Index of Social
+Cohesion) recoge una visión ecléctica de la tradición académica. Su
+conceptualización ha estado principalmente influida por los trabajos de
+los canadienses Paul Bernard y Jane Jenson que señalan que el objetivo
+general de la cohesión social es que todos los ciudadanos puedan acceder
+en iguales condiciones a los derechos económicos y sociales
+fundamentales.
+
+En el desarrollo del proyecto se reconoce la tradición que destaca la
+importancia del papel que juegan el consenso y el conflicto en las
+sociedades. El interés en este concepto ha sido alentado por los
+procesos sociales generales como la globalización, el cambio económico y
+la guerra contra el terrorismo en las últimas décadas. Sin embargo, la
+creación de este índice se enfrenta al problema más común en la
+conceptualización de teorizaciones acerca de la social: no hay acuerdo
+en la definición del concepto.
+
+Según los autores del índice, las definiciones actuales muchas veces son
+intangibles, y refieren a una característica de un grupo o la
+disposición de lo sujetos para participar y compartir objetivos. En este
+marco, y en el intento de concretizar la conceptualización con un
+enfoque ecléctico se llegó a la identificación de tres elementos
+comunes: la cohesión social es una visión compartida, una propiedad
+grupal y un proceso.
+
+La visión compartida refiere a que los investigadores reconocen que la
+cohesión social requiere de valores universales, respeto mutuo y
+aspiraciones comunes o identidades compartidas por los miembros.
+Asimismo, hay acuerdo en que este constructo es una propiedad de los
+grupos o comunidades en los que existe esa visión compartida sobre metas
+y responsabilidades. Finalmente, la cohesión social es comunmente vista
+como un continuo y un proceso sin fin de búsqueda de la armonía social y
+no un resultado como se podría pensar.
+
+Por otro lado, la diferencia en las definiciones de cohesión social
+están puestas fuertemente en los factores que impactan sobre el proceso
+de armonía de los grupos o comunidades. Esto último debe ser considerado
+por el OCS para identificar aquellas variables que permitirán segmentar
+los distintos indicadores de cohesión social buscando explicar la
+variabilidad entre grupos y países. Los factores claves que reconocen en
+el SMISC son económicos, políticos y socioculturales. En cuanto a los
+factores económicos, se reconocen los niveles de desempleo y pobreza,
+distribución de ingreso, migraciones, salud, satisfacción con la vida y
+sentido de seguridad, y la responsabilidad del gobierno por la pobreza y
+la desigualdad. En lo político, los factores que influyen sobre la
+cohesión social están relacionados al nivel de participación política e
+involucramiento social, incluyendo el voluntariado, el desarrollo de
+capital social, y las normas y confianza social que facilitan la
+cooperación en los grupos o comunidades. Finalmente, a nivel
+sociocultural se considera el consenso y la divergencia en torno a temas
+de significación nacional y local.
+
+En resumen, la definición que el SMISC entrega sobre cohesión social es
+la disposición que tienes lo miembros de una sociedad para cooperar con
+cada uno de los demás para la sobrevivencia y la prosperidad. En virtud
+de esto, el SMISC cubre cinco dominios de la cohesión social:
+
+1.  Pertenencia: esta dimensión comprende los valores que comparte la
+    población, la identificación con el país (Australia) y la confianza.
+
+2.  Valoración: comprende la satisfacción con la situación económica,
+    satisfacción con la vida, felicidad y expectativas sobre el futuro.
+
+3.  Justicia social y equidad: visión sobre el adecuado apoyo a las
+    personas de bajos ingresos, la brecha entre ricos y pobres, el país
+    como una tierra de oportunidades y confianza en el gobierno.
+
+4.  Participación (política): trabajo voluntario, actividad e
+    involucramiento político.
+
+5.  Aceptación, rechazo y legitimidad: experiencia de discriminación,
+    actitudes hacia las minorías y *newcomers*.
+
+## Operacionalización
+
+Uno de los elementos característicos de la iniciativa australiana es el
+diseño de un índice de cohesión social el que ha sido medido en cada una
+de las versiones del estudio.
+
+El Scanlon-Monash Index de Cohesión Social esta compuesto por 5
+dimensiones que resumen los dominions del concepto.
+
+![Operacionalización del Índice de Cohesión
+Social](inputs/images/scalon.png)
+
+La primera dimensión corresponde al **sentido de pertenencia** que
+incluye preguntas generales sobre el sentido de pertenencia, sentido de
+orgullo y la importancia de mantener la cultura y forma de vida de los
+australianos. Los dos primeros medidos en una escala de cuatro puntos
+desde To a great extent a Not at all. La importancia de la cultura y
+forma de vida utiliza una escala de acuerdo de 4 puntos.
+
+La segunda dimensión es la **valoración** compuesta por un indicador de
+satisfacción con la situación financiera y felicidad en los últimos
+años.
+
+La tercera dimensión es la **equidad y justicia social** medido con el
+nivel de acuerdo acerca de que Australia es una tierra de oportunidades
+en donde el trabajo duro entrega una mejor vida; el grado de acuerdo con
+que existe una gran diferencia entre altos ingresos y bajos ingresos;
+que las personas con bajos ingresos reciben suficiente apoyo; y que el
+gobierno federal hace las cosas correctas por las personas.
+
+La cuarta dimensión es la **participación política** medido a través de
+un índice que combina distintas formas de participación: votar en
+elecciones, firmar una petición, contacto con miembros del parlamento,
+unirse a un boycot de algún producto comercial y asistir a una protesta,
+marcha o demostración.
+
+Finalmente, el índice incluye una dimensión de **aceptación y rechazo**
+compuesta de indicadores de experiencia de discriminación en base a
+color de piel, etnia o religión; pesimismo sobre el futuro preguntado a
+través de si cree que en 3 años su vida en Australia estará peor, igual
+o mejor; si cree que el gobierno australiano debe dar asistencia para
+que las minorías étnicas mantengan sus costumbres y tradiciones; y si
+cree que aceptar inmigrantes de muchos países hace a Australia más
+fuerte. [@colic-peisker_Social_2015]
+
+En conjunto con las preguntas para la construcción del índice de
+cohesión social, las diferentes versiones del estudio han incluido otras
+mediciones complementarias y un análisis particular de los indicadores
+incluidos en el índice general. Para el año 2014 los indicadores
+incluidos cubrían:
+
+-   Ranking de problemas más importantes hoy en día en el país a través
+    de una pregunta abierta que busca determinar los temas que son más
+    importantes para los australianos.
+
+-   Experiencia de discriminación por piel, etnia o religión en los
+    últimos doce meses. El 2014 incluyó una pregunta sobre la frecuencia
+    en la que ocurrió y el lugar (barrio, trabajo, centro comercial,
+    transporte público o evento deportivo). La percepción sobre el
+    barrio es profundizada en esta sección en base a una serie de
+    indicadores sobre percepción de seguridad.
+
+-   Confianza interpersonal y trabajo voluntario en los últimos doce
+    meses.
+
+-   Democracia a través de preguntas sobre la opinión del rol del
+    gobierno. El grado de acuerdo con que el gobierno realiza las cosas
+    correctas para los australianos; preferencias por diferentes
+    sistemas políticos y por la democracia en específico. En esta
+    sección se incluye la confianza en distintas instituciones.
+
+-   Policía y sistema legal. Confianza en la policía y sistema legal,
+    contacto con la policía, percepción del trabajo de la policía
+    (honestidad, trato equitativo y profesionalismo), satisfacción con
+    la respuesta.
+
+-   Inmigración es el tema más importante del instrumento. En el informe
+    del 2014 se reporta el nivel de conformidad con el actual nivel de
+    inmigración y su proyección.
+
+-   Búsqueda de asilo y refugiados ocupan una sección especial en el
+    informe. Se explora en el nivel de conocimiento sobre el fenómeno,
+    las razones de esto y si son considerados por la población como un
+    fenómeno de inmigración ilegal. Se pregunta en específico por
+    aquellas personas que llegan al país en barco buscando asilo
+    distinguiéndolos de aquellos refugiados por programas humanitarios.
+    Uno de los aspectos más interesantes es que se le pregunta a la
+    población qué hacer con la población que llega a través de barcos
+    (postular a residencia permanente, temporal, enviar de vuelta o que
+    el barco regrese).
+
+-   Multiculturalismo y diferencia de valores. Se pregunta el grado de
+    acuerdo con 5 frases sobre multiculturalismo (beneficio para el
+    desarrollo económico, discurso de que los inmigrantes sean parte de
+    la sociedad, debilita la forma de vida australiana, dar a los
+    inmigrantes las mismas o más oportunidades que los nacidos en
+    Australia y reducir los problemas de los inmigrantes.
+
+## Referencias
+
+1.  Markus, A. & Dharmalingam, A. (2014). Mapping Social Cohesion: The
+    Scanlon Foundation surveys 2014.
+
+    Este informe presenta los resultado de la encuesta de Scalon Foundation. En cada informe se resume la construcción del índice y las dimensiones que comprenden en su propuesta de operacionalización de la cohesión social.
+
+2.  Colic-Peisker, V. & Robertson, S. (2015). Social change and
+    community cohesion: an ethnographic study of two Melbourne suburbs.
+    Ethnic and Racial Studies, 38(1), 75-91.
+
+    Dado el importante énfasis local que ha tenido esta encuesta, ha
+    generado problematizaciones que han sido cubiertas por otros
+    investigadores como es el ejemplo de este estudio etnográfico. Los
+    autores se plantean la pregunta de hasta qué punto comunidades
+    etnoculturalmente diversas pueden ser cohesivas.
+
+3.  Markus, A., & Dharmalingam, A. (2007). Attitudinal Divergence in a
+    Melbourne Region of High Immigrant Concentration: A Case Study.
+    People and Place, 15(4), 38-48.
+
+    En este artículos los autores utilizan datos de la encuestas
+    Scalon-Monash para comprender las actitudes hacia la inmmigración y
+    la diversidad étnica en dos suburbios de Melbourne. Los resultados
+    sugieren que existe un apoyo hacia la no-selección en la aplicación
+    de políticas sociales en base a criterios étnicos, aunque hay cierto
+    rechazo a la inmigración y algunos aspectos del multiculturalismo.
