@@ -19,9 +19,22 @@
 \usepackage{tabu}
 \usepackage{threeparttable}
 \usepackage{pdfpages} %para pdf portada
+\usepackage{fancyhdr} %headers
 
 % fuente: https://stackoverflow.com/questions/45963505/coverpage-and-copyright-notice-before-title-in-r-bookdown
 \let\oldmaketitle\maketitle 
 \AtBeginDocument{\let\maketitle\relax}
-	
+
+
+
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[R]{\emph{\nouppercase{\rightmark}}}
+\fancyhead[L]{\emph{\nouppercase{\thepage}}}
+% \fancyfoot[CE,CO]{\leftmark}
+% \fancyfoot[LE,RO]{\thepage}
+
+\renewcommand{\headrulewidth}{1pt}
+% \renewcommand{\footrulewidth}{1pt}
 
