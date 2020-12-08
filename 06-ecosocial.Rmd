@@ -1,6 +1,6 @@
 ---
-editor_options: 
-  markdown: 
+editor_options:
+  markdown:
     wrap: 72
 ---
 
@@ -18,7 +18,7 @@ Social en América Latina", realizado por la Corporación de Estudios para
 Latinoamérica (CIEPLAN) de Chile, y el Instituto Fernando Henrique
 Cardoso (IFHC) de Brasil. ECosociAL-2007 fue financiado por la Comisión
 Europea, bajo la coordinación del PNUD. El proyecto contó, además, con
-el valioso aporte del Instituto de Sociología de la Pontificia
+la participación del Instituto de Sociología de la Pontificia
 Universidad Católica de Chile y del Helen Kellog Institute for
 Internacional Studies de la Universidad de Notre Dame, Estados Unidos.
 El Instituto de Sociología de la Pontificia Universidad Católica de
@@ -44,85 +44,26 @@ en México de 1.500 y finalmente, en Brasil de 1.700 casos. La muestra
 fue probabilística multietápica hasta la selección de los hogares en
 donde se seleccionó a los respondentes por cuotas.
 
-Previamente al comienzo del trabajo de campo, el equipo coordinador
-(Instituto de Sociología de la Pontificia Universidad Católica de Chile)
-envió a las instituciones encargadas de la aplicación del instrumento en
-los distintos países, el detalle del diseño muestral. Una vez
-consensuado el diseño, cada institución procedió a ejecutar el trabajo
-de campo.
+Previamente al comienzo del trabajo de campo, el equipo coordinador envió a las instituciones encargadas de la aplicación del instrumento en los distintos países, el detalle del diseño muestral. Una vez consensuado el diseño, cada institución procedió a ejecutar el trabajo de campo.
 
 ## Concepto de Cohesión Social
 
-Al concepto con el que trabaja ECOsociAL se nutre tanto de las teorías
-de la sociedad civil como de las teorías de la equidad, tomando una
-postura ecléctica similar a la de los otras experiencias.
-
-La teoría de la sociedad civil refiere a la disposición de los sujetos a
-la cooperación y el compromiso cívico. Los autores señalan que en esta
-tradición la cohesión social se asocia a la capacidad de producir con
-confianza social, promover la asociatividad y sancionar a los
-free-riders. Una sociedad o grupo cohesionado mantendrá redes de
-cooperación entre extraños y promoverá acciones de los individuos
-coherentes y con respeto por el bien común.
-
-En este sentido, los estudios que utilizan las teorías de la sociedad
-civil en cohesión social cuantifican la confianza interpersonal, la
-participación política, la asociatividad y la consistencia entre redes
-vecinales y de amistad.
-
-Las relaciones de confianza y cooperación tradicionales como la familia,
-no están consideradas en la sociedad civíl, que deja de ser la extensión
-de la familia para pasar a ser una realidad emergente de relación con
-otros extraños y diferentes. Incluso, la teoría plantea que las
-relaciones familiares podrían ser capital social negativo al estar
-basadas en vínculos con conocidos e iguales. Permanecer entre iguales
-tiene a la discriminación como su expresión más negativa y, sobre todo,
-la desintegración producto de la violencia y la criminalidad. Sin
-embargo, en las teorías de la sociedad civil no es la discriminación el
-principal elemento de erosión de la cohesión social, sino que el temor
-que impide la construcción de redes de confianza.
-[@valenzuela_Vinculos_2008]
-
-La segunda tradición considera a la equidad como fuente de la cohesión
-social en una perspectiva que refiere al fundamento de la estructura
-social. La equidad se entiende como la capacidad de distribuir
-equitativamente el poder y el bienestar entre los individuos a través de
-mecanismos necesarios para lograrlo. En un escenario sin equidad, lo que
-prima es el conflicto del cuál el conflicto de clases es el más
-representativo. La falta de cohesión social se traduciría en
-polarización entre grupos sociales.
-
-Esta conceptualización tiene un lado positivo y un lado negativo. El
-lado positivo es que la cohesión se consigue mediante arreglos que
-permitan la distribución equitativa de los bienes y, el lado negativo,
-es que muchas veces la solución a problemas de cohesión social es el
-autoritarismo.
-
-En este sentido, la teoría de la sociedad civil sería heredera de la
+Al concepto con el que trabaja ECOsociAL se nutre tanto de las teorías de la sociedad civil como de las teorías de la equidad, tomando una postura ecléctica similar a la de los otras experiencias. En este sentido, la teoría de la sociedad civil sería heredera de la
 visión tocquevilliana predominante en Estados Unidos y la segunda de la
 tradición europea y la desestabilización de los Estados de Bienestar.
-[@somma2015paradojas]
+[@somma2015paradojas]. La teoría de la sociedad civil refiere a la disposición de los sujetos a la cooperación y el compromiso cívico. Los autores señalan que en esta tradición la cohesión social se asocia a la capacidad de producir con confianza social, promover la asociatividad y sancionar a los free-riders. Una sociedad o grupo cohesionado mantendrá redes de cooperación entre extraños y promoverá acciones de los individuos coherentes y con respeto por el bien común. En este sentido, los estudios que utilizan las teorías de la sociedad civil en cohesión social cuantifican la confianza interpersonal, la participación política, la asociatividad y la consistencia entre redes vecinales y de amistad.
 
-ECOsociAL no entrega una definición propia de cohesión social, sino que
-señala que la medición de la cohesión social en América Latina estará
-basada en estas dos tradiciones.
+Las relaciones de confianza y cooperación tradicionales como la familia, no están consideradas en la sociedad civil, que deja de ser la extensión de la familia para pasar a ser una realidad emergente de relación con otros extraños y diferentes. Incluso, la teoría plantea que las relaciones familiares podrían ser capital social negativo al estar basadas en vínculos con conocidos e iguales. Permanecer entre iguales tiene a la discriminación como su expresión más negativa y, sobre todo, la desintegración producto de la violencia y la criminalidad. Sin embargo, en las teorías de la sociedad civil no es la discriminación el principal elemento de erosión de la cohesión social, sino que el temor que impide la construcción de redes de confianza. [@valenzuela_Vinculos_2008]
+
+La segunda tradición considera a la equidad como fuente de la cohesión social en una perspectiva que refiere al fundamento de la estructura social. La equidad se entiende como la capacidad de distribuir equitativamente el poder y el bienestar entre los individuos a través de mecanismos necesarios para lograrlo. En un escenario sin equidad, lo que prima es el conflicto del cuál el conflicto de clases es el más representativo. Así, la falta de cohesión social se traduciría en polarización entre grupos sociales. Esta conceptualización tiene un lado positivo y un lado negativo. El lado positivo es que la cohesión se consigue mediante arreglos que permitan la distribución equitativa de los bienes y, el lado negativo, es que muchas veces la solución a problemas de cohesión social es el autoritarismo.
+
+ECOsociAL no entrega una definición propia de cohesión social, sino que señala que la medición de la cohesión social en América Latina estará basada en estas dos tradiciones.
 
 ## Operacionalización
 
-El cuestionario puso énfasis en temáticas como: movilidad social;
-distribución de oportunidades; legitimación de diferencias
-socioeconómicas; polarización socio-económica, religiosa y política;
-confianza social e institucional; exclusión; temor e inseguridad;
-segregación urbana; solidaridad familiar; legitimación de la violencia
-política; lealtad democrática; fragmentación étnica y racial;
-fragmentación territorial y adhesión a Estado nacional.
+El cuestionario puso énfasis en temáticas como: movilidad social; distribución de oportunidades; legitimación de diferencias socioeconómicas; polarización socio-económica, religiosa y política; confianza social e institucional; exclusión; temor e inseguridad; segregación urbana; solidaridad familiar; legitimación de la violencia política; lealtad democrática; fragmentación étnica y racial; fragmentación territorial y adhesión a Estado nacional.
 
-Como se ha señalado, ECOsociAL trasciende la visión institucional y la
-inclusión de los grupos excluidos ampliamente difundida en Europa y en
-experiencias presentes en este informe como la Australiana. Dada las
-particularidades del continente es que se vuelve necesaria la inclusión
-de el monitoreo del estado de salud de las relaciones de las comunidades
-y su sustrato cultural, incluyendo la adhesión a la nación.
+Como se ha señalado, ECOsociAL trasciende la visión institucional y la inclusión de los grupos excluidos ampliamente difundida en Europa y en experiencias presentes en este informe como la Australiana. Dada las particularidades del continente es que se vuelve necesaria la inclusión de el monitoreo del estado de salud de las relaciones de las comunidades y su sustrato cultural, incluyendo la adhesión a la nación.
 
 *La calidad de la convivencia social*
 
@@ -148,7 +89,7 @@ y su sustrato cultural, incluyendo la adhesión a la nación.
 
 -   Relaciones de amistad, vecindad y asociatividad: la asociatividad se
     midió a través de las declaraciones de participación en las
-    principales organizaciones sociales. Para las relaciones de amistas
+    principales organizaciones sociales. Para las relaciones de amistad
     y vecindad se pregunta sobre el número de amigos cercanos y de
     vecinos que se conocen por su nombre. Adicionalmente, para evaluar
     la calidad de los contactos se pregunta sobre la frecuencia de
@@ -301,13 +242,13 @@ y su sustrato cultural, incluyendo la adhesión a la nación.
     el caso de la riqueza y flojera, falta de iniciativa, vicios y
     alcoholismo en el caso de la pobreza).
 
--   Desigualdad: se incluye dos pares de sentencias sobre cuál es la
+-   Desigualdad: se incluyen dos pares de oraciones sobre cuál es la
     mejor sociedad. El primer par es "la que recompensa el esfuerzo
     individual" y "la que produce mayor igualdad social". El segundo par
     de frases es "la que permite progresar a cada individuo, aunque crea
     desigualdad" y "la más igualitaria, aunque frene a los más capaces".
     En esta dimensión se incluye el rol del Estado frente a la
-    desigualdad con dos pares de sentencias al igual que el caso
+    desigualdad con dos pares de oraciones al igual que el caso
     anterior: el primer par es "subir impuestos y aumentar gasto social"
     y "reducir impuestos aunque baje gasto social"; y el segundo par es
     "Estado debe darle oportunidades a cada uno" y "búsqueda de

@@ -1,73 +1,40 @@
 ---
-editor_options: 
-  markdown: 
+editor_options:
+  markdown:
     wrap: 72
 ---
 
 # Conclusiones
 
-A modo de conclusión, en esta sección se sintetizan los principales
-puntos de confluencia y divergencia entre las distintas experiencias
-analizadas en este informe. En primer lugar, se desarrollan los aspectos
-comunes en cuando a la conceptualización y, en segundo lugar, se
-presenta una mirada de conjunto a la operacionalización que se realiza
-del concepto de cohesión social. Dos aspectos generales en los que
-coinciden las 5 experiencias analizadas es que la cohesión social es un
-atributo del colectivo y no de los individuos, distanciándose de las
-conceptualizaciones iniciales que lo homologaban a capital social. Por
-otro lado, la cohesión social es un constructo multidimensional y la
-variabilidad está precisamente en las dimensiones que cada una de las
-experiencias considera.
+Dos aspectos generales en los que coinciden las 5 experiencias analizadas es que la cohesión social es un atributo del colectivo y no de los individuos, distanciándose de las conceptualizaciones iniciales que lo homologaban a capital social. Por otro lado, la cohesión social es un constructo multidimensional y la variabilidad está precisamente en las dimensiones que cada una de las experiencias considera.
 
-Como se puede desprender de la Tabla [table:conceptos], una de los
-elementos en común que destaca en las conceptualizaciones de cohesión es
-el foco puesto en un fin compartido por el grupo humano. Estos fines
-están estrechamente relaciones ya como metas comunes, prosperidad, bien
-común o dar respuestas colectivas a los cambios. En este sentido, con un
-sentido teleológico la cohesión social sería la cualidad de las
-relaciones sociales que permitiría alcanzar estos objetivos en tanto
-medio. Esta definición involucra elementos importantes como la
-legitimidad de las instituciones para guiarnos hacia el bien común o la
-equidad para asegurar el acceso de cada uno de los miembros del grupo al
-bien producido colectivamente.
+Como se puede desprender de la Tabla [table:conceptos], una de los elementos en común que destaca en las conceptualizaciones de cohesión es el foco puesto en un fin compartido por el grupo humano. Estos fines están estrechamente relaciones ya como metas comunes, prosperidad, bien común o dar respuestas colectivas a los cambios. En este sentido, con un sentido teleológico la cohesión social sería la cualidad de las relaciones sociales que permitiría alcanzar estos objetivos en tanto medio. Esta definición involucra elementos importantes como la legitimidad de las instituciones para guiarnos hacia el bien común o la equidad para asegurar el acceso de cada uno de los miembros del grupo al bien producido colectivamente.
 
 Otro énfasis importante es el dado a la cooperación como soporte
 actitudinal a un grupo o sociedad cohesionada. Dado que los sujetos
 tienen un objetivo en común, son capaces de trabajar unos con otros para
 lograr estos objetivos. Incluso, en ECOsociAL existe referencia a los
-free-raders, en donde dados los fines comunes y la cooperación una
-sociedad cohesiva debe asegurar la sanción a los sujetos que toman parte
-en el bien común, pero no colaboran en la cooperación.
+free-riders, en donde dados los fines comunes y la cooperación una
+sociedad cohesiva debe asegurar la sanción a los sujetos que no colaboran en esta tarea colectiva.
 
-Si bien las experiencias destacan que no ha existo consenso en
-clarificar lo que significa cohesión social, podríamos reconocer cuatro
-elementos comunes en las definiciones utilizadas:
+Si bien las experiencias destacan que no ha existido consenso en clarificar lo que significa cohesión social, podríamos reconocer cuatro elementos comunes en las definiciones utilizadas:
 
 -   Atributo del colectivo
-
 -   Multidimensionalidad
-
 -   Fin común
-
 -   Cooperación
 
-
-Un segundo aspecto de las experiencias internacionales revisadas que se
-puede síntezar es la operacionalización que llevan a cabo de la cohesión
-social. Este paso lógico hace posible identificar indicadores que están
-en el centro de la discusión y sobre los cuales existe mayor o menor
-acuerdo como medidas de cohesividad.
+Otro aspecto de las experiencias internacionales revisadas es la operacionalización que llevan a cabo de la cohesión social. Este paso lógico hace posible identificar indicadores que están en el centro de la discusión y sobre los cuales existe mayor o menor acuerdo como medidas de cohesividad.
 
 ```{r echo=FALSE, fig.cap="Síntesis de dimensiones"}
 knitr::include_graphics(path = "inputs/images/comun.jpg")
 ```
 
-
 En un núcleo central, como observamos en la figura [figure:dimensiones],
 se pueden observar las dimensiones que se comparten en mayor medida para
 medir la cohesión social en una sociedad por las 5 experiencias
-analizadas. Si bien, las experiencias difieren en los indicadores
-específicos todas ellas miden de alguna forma la pertenencia, la
+analizadas. Si bien las experiencias difieren en los indicadores
+específicos, todas ellas miden de alguna forma la pertenencia, la
 inclusión, la diversidad y participación. La pertenencia corresponde a
 las identidades o valores que comparten los grupos y sociedades que en
 el Social Cohesion Radar es llamada identificación, adhesión a la nación
@@ -79,7 +46,7 @@ la sociedad. Aquí ECOsociAL hace referencia a la percepción de
 oportunidades al igual que el Scalon-Monash Index y el Social Cohesion
 Radar a la percepción de justicia. Una tercera dimensión hace referencia
 que si bien hablamos de un colectivo, este no necesariamente es
-homogeneo y que la heterogeneidad no debe afectar la estabilidad o la
+homogéneo y que la heterogeneidad no debe afectar la estabilidad o la
 cohesividad del grupo. Así, diversos indicadores de multiculturalismo,
 reconocimiento y aceptación de la diversidad son incluidos de forma
 central por las experiencia analizadas. El índice australiano toma como
@@ -88,9 +55,10 @@ aceptación de la población nativa de los actuales niveles de
 inmigración. Asimismo, la experiencia de discriminación es incluida
 también por el Scalon-Monash Index. Por otro lado, Social Cohesion Radar
 y ECOsociAL incorporan adicionalmente la diversidad religiosa y sexual.
+
 La participación cívica igualmente es una dimensión central en la
 medición de cohesión social para la distintas experiencias analizadas.
-Esto incluye la participación en organizaciones civíles y participación
+Esto incluye la participación en organizaciones civiles y participación
 propiamente política. Social Cohesion Radar incluye votación en
 elecciones, interés en política y el trabajo en asociaciones. Asimismo,
 la experiencia australiana lo hace solo con participación política
@@ -106,15 +74,10 @@ considerada por la experiencia canadiense y ECOsociAL. Asimismo, las
 redes sociales son caracterizadas a través del contacto con amigos y
 sentimiento de soledad. En cuando a la solidaridad se encuentra la
 donación de dinero y solidaridad familiar. Estas medidas secundarias
-aparecen al menos en dos de todas las experencias incluidas en este
+aparecen al menos en dos de todas las experiencias incluidas en este
 reporte.
 
 Finalmente, se representan algunos de los indicadores que son incluidos
 en al menos uno de los monitoreos considerados. Algunas de ellas son la
 sensación de temor, el riesgo político o el respeto a las normas
 sociales.
-
-De esta forma, este reporte sintetiza 5 experiencias internacionales de
-monitoreo de la cohesión social, sirviendo de sustenta conceptual y
-operacional para la creación del Observatorio de Cohesión Social en
-Chile.

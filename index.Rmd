@@ -1,6 +1,7 @@
 ---
-title: "Observatorio de Cohesión Social"
-subtitle: "Experiencias internacional de monitoreo de la cohesión"
+title: "Conceptos y medición de cohesión social en proyectos internacionales"
+subtitle: ""
+author: "Juan Carlos Castillo, Francisco Olivos & Julio Iturra"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
@@ -15,8 +16,8 @@ linestretch: 1.5
 toc-depth: 1
 lof: True
 lot: True
-editor_options: 
-  markdown: 
+editor_options:
+  markdown:
     wrap: 72
 ---
 
@@ -28,7 +29,7 @@ options(scipen=999)
 rm(list=ls())
 options(knitr.kable.NA = '',linesep = "")
 options(knitr.graphics.error = FALSE)
-Sys.setlocale("LC_ALL", "ES_ES.UTF-8")
+# Sys.setlocale("LC_ALL", "ES_ES.UTF-8")
 ```
 
 ```{r message=FALSE, warning=FALSE, include=FALSE, echo=FALSE}
@@ -46,84 +47,37 @@ fullw = if(is_html_output()) {T} else if(is_latex_output()) {F}
 fsize = if(is_html_output()) {14} else if(is_latex_output()) {8}
 ```
 
-# Introducción
+# Introducción {-}
 
-Este reporte es un insumo para la creación del Observatorio de Cohesión
-Social (OCS) del Centro de Estudios de Conflicto y Cohesión Social
-(COES) que tiene como objetivo aumentar y centralizar la disponibilidad
-de datos sobre cohesión social y ponerlos a disposición de la comunidad
-académica nacional e internacional, la ciudadanía y los hacedores de
-políticas públicas. Los datos e indicadores permitirán visualizar el
-estado y trayectoria de la cohesión social para diversos países, con
-especial énfasis en Chile.
-
-Particularmente, el primer objetivo específico (recolectar datos e
-indicadores internacionales sobre cohesión social, incluyendo su
-adecuada documentación) hace necesaria la revisión de experiencias
-internacionales que busquen monitorear la cohesión social en otros
-contextos.
+Este documento tiene por objetivo describir y resumir diferentes aproximaciones conceptuales y metodológicas hacia el concepto de cohesión social. Originalmente fue desarrollado para servir como insumo en la generación del Observatorio de Cohesión Social (OCS) ([https://ocs-coes.netlify.app/](https://ocs-coes.netlify.app/)) del Centro de Estudios de Conflicto y Cohesión Social
+(COES), cuyo objetivo es proponer indicadores de cohesión social con foco en américa latina basados en datos secundarios y permitir la realización de análisis en una plataforma interactiva.
 
 Como punto de partida de este esfuerzo por definir y operacionalizar la
 cohesión social para el OCS es necesario considerar algunos trabajos de
-carácter teórico que existen en Latino América. Uno de estos casos es el
-trabajo realizado por la CEPAL [@ottone2007cohesion] una respuesta a los
-problemas que afectan al continente, a saber, los altos índices de
+carácter teórico que existen en América Latina. Uno de estos casos es el
+trabajo realizado tempramnamente por CEPAL [@ottone2007cohesion] en respuesta a una serie de problemas que afectan al continente, como son los altos índices de
 pobreza, desigualdad y diversas formas de discriminación y exclusión. La
 cohesión social en este caso está estrechamente vinculada a los valores
-democráticos y el respeto al estado de derecho. Así, la cohesión social
-tendría dos vertientes principales. Por un lado referiría a la capacidad
-de los mecanismos instituidos de inclusión social (sistema educacional,
-protección social, titularidad de derecho, etc.) como a los
+democráticos y el respeto al estado de derecho. Desde esta perspectiva, la cohesión social tendría dos vertientes principales: por un lado referiría a la capacidad de los mecanismos instituidos de inclusión social (sistema educacional,
+protección social, titularidad de derecho, etc.), y por otro lado a los
 comportamientos y valores de los sujetos que conforman la sociedad
 (sentido de pertenencia, capital social, confianza en las instituciones,
 solidaridad, etc.)
 
-Otros de los casos destacados es el libro editado por Eugenio Tironi
-"Redes, Estados y Mercados: soportes de la cohesión social en América
-Latina "(2008) , en cuya introducción se entregan principios
-orientadores y una definición de cohesión social
-[@tironibarrios_Redes_2008] . Señalan que el concepto de cohesión social
-es tanto descriptivo, por señalar lo que une a la sociedad, como
-normativo por ponerla a la altura de los ideales que son propios de la
-democracia. Una sociedad cohesionada no es una sociedad cerrada en torno
-a determinados valores, sino la que permite que los sujetos se
-relacionen en torno a principios de justicia que al ser respetado dan
-fundamento al actuar cooperativo. Por eso, desde esta perspectiva el
-concepto supone un sentido de pertenencia moral y sujeción a reglas al
-estilo durkhemiano que son compatibilizados con la autonomía individual
-para las sociedades modernas. Sin embargo, la conciencia moral podría
-incluir elementos como la misma autonomía individual, la diferencia y la
-diversidad como principios orientadores.
+Una aproximación conceptual complementaria a la de CEPAL a finales de la década del 2010 proviene del trabajo de CIEPLAN desarrollado en torno al proyecto y encuesta ECOsociAL (2007) [@tironibarrios_Redes_2008]. Desde esta perspectiva se señala que el concepto de cohesión social es tanto descriptivo como normativo, ya que no solo permite describir los elementos que unen a la sociedad, sino también propone ciertos ideales a alcanzar como sociedad en contextos democráticos. Así, una sociedad cohesionada no sería una sociedad cerrada en torno a determinados valores, sino que permitiría que los sujetos se relacionen en torno a principios de justicia que dan fundamento al actuar cooperativo. Por eso, desde esta perspectiva el concepto supone un sentido de pertenencia moral y sujeción a reglas al estilo durkhemiano, que a su vez son compatibilizados con la autonomía individual para las sociedades modernas. Sin embargo, la conciencia moral podría incluir elementos como la misma autonomía individual, la diferencia y la diversidad como principios orientadores.
+
+El auge observado por el concepto de cohesión social a finales de la década del 2010 en Chile y América Latina, impulsado principalmente por CEPAL, PNUD y CIEPLAN, entra luego a una fase de menor actividad en la región, lo que contrasta con el desarrollo de proyectos a larga escala a nivel internacional enfocados principalmente en la medición de cohesión social. El presente documento pone su foco en esta segunda fase, presentando una revisión de los proyectos más emblemáticos a nivel internacional que han puesto el foco en medición de cohesión social.
 
 La revisión de experiencias internacionales en el monitoreo de cohesión
 social tiene cuatro focos centrales. En primer lugar, conocer en mayor
 detalle la estructura organizacional y objetivos de los proyectos
 existentes actualmente. En segundo lugar, revisar las definiciones
-conceptuales de cohesión social para entregar un marco general en el
-cuál focalizar la búsqueda de datos para el caso chileno. El tercer foco
+conceptuales de cohesión social para entregar un marco general que permita especificar  dimensiones y subdimensiones del concepto.  El tercer foco
 es la operacionalización que estas experiencias realizan del concepto
-para identificar indicadores a considerar en el OCS. Finalmente, cada
+para identificar o generar indicadores. Finalmente, cada
 revisión de las experiencias internacionales se concluye con un listado
 de referencias comentadas en donde se puede encontrar documentos de
 trabajo o aplicaciones de los datos levantados por cada uno de los
 proyectos.
 
-La selección de iniciativas internacionales buscó ser representativa
-geográficamente dado que las perspectivas sobre la cohesión social tiene
-un arraigo en los atributos socioculturales en los que estos se
-desarrollan: vínculos sociales o capital social en Estados Unidos por
-ejemplo o ampliación del Estado de Bienestar a grupos excluidos en
-Europa.
-
-Por esto se ha seleccionado el Scalon-Monash Index of Social Cohesión de
-Australia, el Social Cohesión Radar alemán con alcance internacional, el
-trabajo teórico Civic Engagement and Social Cohesion Report de los
-Estados Unidos, el clásico trabajo de Jenson [-@jenson1998mapping;
--@jenson2010defining] Mapping Social Cohesion en Canadá y el proyecto
-ECOsociAL que comprendió a siete ciudades de Latinoamérica.
-
-Se espera que con este insumo se pueda avanzar en la concreción del
-objetivo específico 1 del proyecto del observatorio, que requiere de un
-análisis de la disponibilidad de indicadores internacionales de cohesión
-social a partir de conocer qué es lo que se ha considerado en otras
-iniciativas.
+La selección de iniciativas internacionales buscó ser representativa geográficamente, dado que las perspectivas sobre la cohesión social poseen un arraigo en los atributos socioculturales en los que estos se desarrollan: vínculos sociales o capital social en Estados Unidos por ejemplo o ampliación del Estado de Bienestar a grupos excluidos en Europa. Así, nuestra selección incluye el Scalon-Monash Index of Social Cohesión de Australia, el Social Cohesión Radar alemán con alcance internacional, el trabajo teórico Civic Engagement and Social Cohesion Report de los Estados Unidos, y el clásico trabajo de Jenson [-@jenson1998mapping; -@jenson2010defining] Mapping Social Cohesion en Canadá. Finalmente, y si bien no calza totalmente con el carácter y momento de los otros estudios, se incluyó también al proyecto ECOsociAL que comprendió a siete ciudades de Latinoamérica.

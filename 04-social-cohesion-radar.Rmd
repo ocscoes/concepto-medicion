@@ -1,6 +1,6 @@
 ---
-editor_options: 
-  markdown: 
+editor_options:
+  markdown:
     wrap: 72
 ---
 
@@ -13,17 +13,15 @@ debate público sobre cohesión social, un mejor entendimiento de los
 cambios actuales y la proyección en el futuro. Su objetivo explícito es
 proveer al público general de una buena visualización de conjunto de los
 niveles y tendencias de la cohesión social tanto como una comprensión en
-profundidad de sus determinantes y resultados.
+profundidad de sus determinantes y resultados [@dragolov_Social_2016].
 
 El radar ha comparado la tendencia en la cohesión social de 34 países
 entre 1989 y 2012. La encuesta ha incluido 27 países miembros de la
 Unión Europea (sin Croacia) tanto como 7 naciones industrializadas de
 occidente (Estados Unidos, Canadá, Noruega, Suiza, Israel, Australia y
-Nueva Zelanda).
-
-Actualmente se trabaja en la identificación de causas, efectos y futuras
+Nueva Zelanda). Actualmente se trabaja en la identificación de causas, efectos y futuras
 tendencias. Esta es una iniciativa de Bertelsmann Stiftung en
-cooperación con académicos de la Jacobs University Bremen.
+cooperación con académicos de la Jacobs University Bremen ((https://www.bertelsmann-stiftung.de/en/our-projects/social-cohesion)[https://www.bertelsmann-stiftung.de/en/our-projects/social-cohesion]).
 
 Uno de los rasgos particulares del radar es que está hecho completamente
 en base a datos secundarios, es decir se reutilizan otros datos
@@ -32,7 +30,7 @@ similares en los países objetos de estudio. Se señala que la utilización
 de datos secundarios tiene como ventaja que se realiza en base a datos
 validados y confiables de encuesta de gran escala en diferentes países.
 Dado que se reduce considerablemente los costos, hay un mayor alcance
-del estudio. Y, finalmente, es posible realizan el estudio de forma
+del estudio. Y, finalmente, es posible realizar el estudio de forma
 retrospectiva.
 
 ## Concepto de Cohesión Social
@@ -63,148 +61,101 @@ grupos dentro de la sociedad. La conectividad refiere a los vínculos
 positivos entre individuos y sus países e instituciones. Un foco en el
 bien común finalmente, es reflejado en las acciones y actitudes de los
 miembros de la sociedad que demuestran responsabilidad por otros y por
-la comunidad como un todo. Estos son los tres aspectos central de la
+la comunidad como un todo. Estos son los tres aspectos centrales de la
 cohesión" [@dragolov2013social; @delhey_Happier_2016]
 
 ## Operacionalización
 
 El concepto utilizado en el Radar de Cohesión Social esta compuesto por
-tres dimensiones que a su vez se dividen en tres dimensiones cada una.
+tres dimensiones que a su vez se dividen en tres sub-dimensiones cada una.
 Estas dimensiones han sido evaluadas en cuatro periodos de tiempo
 distinto con diferentes indicadores producto de la disponibilidad de
-datos. Para cada subdimensiones se reportarán los indicadores utilizados
-en el cuarto periodo de tiempo (2009-2012).
+datos.
 
 
 ```{r radar, echo=FALSE, fig.cap="Operacionalización del Radar de Cohesión Social]"}
 knitr::include_graphics(path = "inputs/images/radar.png")
 ```
 
+1. La primera dimensión de **relaciones sociales**, en tanto redes horizontales que existen entre los individuos y grupos de la sociedad, está compuestas por redes sociales, confianza en las personas y aceptación de la diversidad. Una sociedad cohesionada debería presentar fuertes redes sociales, alto nivel de confianza en otros y considerar a individuos con diferentes estilos de vida y valores como iguales.
 
-Las relaciones sociales, en tanto redes horizontales que existen entre
-los individuos y grupos de la sociedad, está compuesto por redes
-sociales, confianza en las personas y aceptación de la diversidad. Una
-sociedad cohesionada debería presentar fuertes redes sociales, alto
-nivel de confianza en otros y considerar a individuos con diferentes
-estilos de vida y valores como iguales.
+**Subdimensiones e indicadores:**
 
-*Redes sociales*
+1.1 *Redes sociales*
 
 -   Count on to help
-
 -   How much time during past week you felt lonely
-
 -   Support if needed advice on serious personal or family matter
-
 -   How often socially meet with friends, relatives or colleagues
 
-*Confianza en las personas*
+1.2 *Confianza en las personas*
 
 -   People try to be fair
-
 -   Most of the time people helpful
-
 -   People can be trusted
 
-*Aceptación de la diversidad*
+1.3 *Aceptación de la diversidad*
 
 -   Country's culture undermined by immigrants
-
 -   Rating of religious tension (high score, low tension)
-
 -   City/area good place for: Racial/ethnic minorities
-
 -   Rating of ethnic tension (high score, low tension)
-
 -   City/area good place for: Gay or lesbian people
-
 -   Gays and lesbians free to live life as they wish
 
-La segunda dimensión de la cohesión es la conectividad entendida como
-los vínculos entre individuos, su país y sus instituciones. A su vez,
-esta dimensión está compuesta por tres subdimensiones: la
-identificación, la confianza en las instituciones y percepción de
-justicia. Un grupo altamente cohesionado debería tener una fuerte
-conexión e identificación con él, alta confianza en las instituciones y
-sentir que son tratados de forma justa. Los indicadores utilizados en el
-cuarto periodo son:
+2. La segunda dimensión de la cohesión es la **conectividad** entendida como los vínculos entre individuos, su país y sus instituciones. A su vez, esta dimensión está compuesta por tres subdimensiones: la identificación, la confianza en las instituciones y percepción de justicia. Un grupo altamente cohesionado debería tener una fuerte conexión e identificación con él, alta confianza en las instituciones y sentir que son tratados de forma justa.
 
-*Identificación*
+**Subdimensiones e indicadores:**
+
+2.1 *Identificación*
 
 -   How attached to country
-
 -   Ideally, would permanently move to another country
 
-*Confianza en las instituciones*
+2.2 *Confianza en las instituciones*
 
 -   Trust in parliament
-
 -   Trust in political parties
-
 -   Confidence in judicial system
-
 -   Confidence in local police
-
 -   Honesty of elections
-
 -   Confidence in health care
-
 -   Confidence in financial institutions
 
-*Percepción de justicia*
+2.3 *Percepción de justicia*
 
 -   To get ahead need to be corrupt
-
 -   Corruption within businesses
-
 -   Government should reduce differences in income levels
-
 -   Corruption (high score, low corruption)
-
 -   Tensions between the rich and the poor
-
 -   I earn what I deserve
-
 -   Pay about just for me
 
-La tercera y última dimensión corresponde al foco en el bien común cuyas
-tres subdimensiones son la solidaridad y amabilidad, respeto por las
-normas sociales y participación cívica. En este caso, un grupo
-cohesionado se caracteriza por que los miembros están preocupados por el
-bienestar de unos y otros, respeto y aceptación de reglas y normas, y
-participación en vida social y política. Los indicadores del cuarto
-periodo de tiempo son:
+3. La tercera y última dimensión corresponde al **foco en el bien común**, cuyas tres subdimensiones son la solidaridad y amabilidad, respeto por las normas sociales y participación cívica. En este caso, un grupo cohesionado se caracteriza por que los miembros están preocupados por el bienestar de unos y otros, respeto y aceptación de reglas y normas, y participación en vida social y política. Los indicadores del cuarto periodo de tiempo son:
 
-*Solidaridad y amabilidad*
+**Subdimensiones e indicadores:**
+
+3.1 *Solidaridad y amabilidad*
 
 -   Helped a stranger
-
 -   Unpaid voluntary work through community and social ser-vices
-
 -   Donated money
 
-*Respeto por las normas sociales*
+3.2 *Respeto por las normas sociales*
 
 -   How wrong to commit traffic offense
-
 -   Size of shadow economy
-
 -   Feel safe walking alone at night
 
-*Participación cívica*
+3.3 *Participación cívica*
 
 -   Worked in association or organisation
-
 -   Signed a petition
-
 -   Worn or displayed campaign badge/sticker
-
 -   Interest in politics
-
 -   Voiced opinion to public official
-
 -   Volunteered time to organization
-
 -   Voting turnout in elections or referenda
 
 ## Referencias
@@ -235,3 +186,7 @@ periodo de tiempo son:
     27 países de la Unión Europea. Los resultados sugieren que europeos
     en sociedades más cohesivas son más felices y saludables
     sicológicamente.
+
+4.  Dragolov, G., Ignácz, Z. S., Lorenz, J., Delhey, J., Boehnke, K., & Unzicker, K. (2016). Social Cohesion in the Western World. Springer International Publishing. http://link.springer.com/10.1007/978-3-319-32464-7
+
+Este libro es una publicación de carácter académico donde se plantean de manera sistemática las bases conceptuales y empíricas de la propuesta del radar de cohesión social.
