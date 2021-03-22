@@ -8,54 +8,25 @@ editor_options:
 
 ## Descripción General
 
-La encuesta ECosociAL-2007 fue realizada con el propósito de medir y
-documentar el estado de la cohesión social y sus distintas dimensiones
-en siete países de América Latina: México, Guatemala, Colombia, Brasil,
-Perú, Argentina y Chile.
+La encuesta ECosociAL-2007 fue realizada con el propósito de medir y documentar el estado de la cohesión social y sus distintas dimensiones en siete países de América Latina: México, Guatemala, Colombia, Brasil, Perú, Argentina y Chile.
 
-El estudio es parte del proyecto "Una Nueva Agenda para la Cohesión
-Social en América Latina", realizado por la Corporación de Estudios para
-Latinoamérica (CIEPLAN) de Chile, y el Instituto Fernando Henrique
-Cardoso (IFHC) de Brasil. ECosociAL-2007 fue financiado por la Comisión
-Europea, bajo la coordinación del PNUD. El proyecto contó, además, con
-la participación del Instituto de Sociología de la Pontificia
-Universidad Católica de Chile y del Helen Kellog Institute for
-Internacional Studies de la Universidad de Notre Dame, Estados Unidos.
-El Instituto de Sociología de la Pontificia Universidad Católica de
-Chile estuvo a cargo de su ejecución y empleó los servicios de
-instituciones especializadas en cada país donde se aplicó la encuesta.
+El estudio es parte del proyecto "Una Nueva Agenda para la Cohesión Social en América Latina", realizado por la Corporación de Estudios para Latinoamérica (CIEPLAN) de Chile, y el Instituto Fernando Henrique Cardoso (IFHC) de Brasil. ECosociAL-2007 fue financiado por la Comisión Europea, bajo la coordinación del PNUD. El proyecto contó, además, con la participación del Instituto de Sociología de la Pontificia Universidad Católica de Chile y del Helen Kellog Institute for Internacional Studies de la Universidad de Notre Dame, Estados Unidos. El Instituto de Sociología de la Pontificia Universidad Católica de Chile estuvo a cargo de su ejecución y empleó los servicios de instituciones especializadas en cada país donde se aplicó la encuesta.
 
-El cuestionario administrado es resultado de un trabajo conceptual y
-empírico que involucró a los distintos equipos que participaron en el
-proyecto entre septiembre del 2006 y febrero del 2007. Esto comenzó con
-la definición conceptual de cohesión social que se detalla en la
-siguiente sección.
+El cuestionario administrado es resultado de un trabajo conceptual y empírico que involucró a los distintos equipos que participaron en el proyecto entre septiembre del 2006 y febrero del 2007. Esto comenzó con la definición conceptual de cohesión social que se detalla en la siguiente sección.
 
-En cuanto al alcance del estudio, la población objetivo fueron los
-habitantes de 18 años o más, de ambos sexos, con nacionalidad del país,
-pertenecientes a todos los niveles socioeconómicos de las principales
-ciudades incluidas en la investigación en los siete pases
-latinoamericanos.
+En cuanto al alcance del estudio, la población objetivo fueron los habitantes de 18 años o más, de ambos sexos, con nacionalidad del país, pertenecientes a todos los niveles socioeconómicos de las principales ciudades incluidas en la investigación en los siete países latinoamericanos.
 
-El tamaño muestral, en base al registro censal de manzanas y cuadras,
-fue diferente para cada uno de los países del estudio. En Guatemala fue
-de 1.200 casos; en Argentina, Chile, Colombia y Perú fue de 1.400 casos,
-en México de 1.500 y finalmente, en Brasil de 1.700 casos. La muestra
-fue probabilística multietápica hasta la selección de los hogares en
-donde se seleccionó a los respondentes por cuotas.
+El tamaño muestral, en base al registro censal de manzanas y cuadras, fue diferente para cada uno de los países del estudio. En Guatemala fue de 1.200 casos; en Argentina, Chile, Colombia y Perú fue de 1.400 casos, en México de 1.500 y finalmente, en Brasil de 1.700 casos. La muestra fue probabilística multietápica hasta la selección de los hogares en donde se seleccionó a los respondentes por cuotas.
 
 Previamente al comienzo del trabajo de campo, el equipo coordinador envió a las instituciones encargadas de la aplicación del instrumento en los distintos países, el detalle del diseño muestral. Una vez consensuado el diseño, cada institución procedió a ejecutar el trabajo de campo.
 
 ## Concepto de Cohesión Social
 
-Al concepto con el que trabaja ECOsociAL se nutre tanto de las teorías de la sociedad civil como de las teorías de la equidad, tomando una postura ecléctica similar a la de los otras experiencias. En este sentido, la teoría de la sociedad civil sería heredera de la
-visión tocquevilliana predominante en Estados Unidos y la segunda de la
-tradición europea y la desestabilización de los Estados de Bienestar.
-[@somma2015paradojas]. La teoría de la sociedad civil refiere a la disposición de los sujetos a la cooperación y el compromiso cívico. Los autores señalan que en esta tradición la cohesión social se asocia a la capacidad de producir con confianza social, promover la asociatividad y sancionar a los free-riders. Una sociedad o grupo cohesionado mantendrá redes de cooperación entre extraños y promoverá acciones de los individuos coherentes y con respeto por el bien común. En este sentido, los estudios que utilizan las teorías de la sociedad civil en cohesión social cuantifican la confianza interpersonal, la participación política, la asociatividad y la consistencia entre redes vecinales y de amistad.
+El concepto con el que trabaja ECOsociAL se nutre tanto de las teorías de la sociedad civil como de las teorías de la equidad, tomando una postura ecléctica similar a la de los otras experiencias. En este sentido, la teoría de la sociedad civil sería heredera de la visión tocquevilliana predominante en Estados Unidos y la segunda de la tradición europea y la desestabilización de los Estados de Bienestar. [@somma2015paradojas]. La teoría de la sociedad civil hace referencia a la disposición de los sujetos a la cooperación y el compromiso cívico. Los autores señalan que en esta tradición la cohesión social se asocia a la capacidad de producir con confianza social, promover la asociatividad y sancionar a los free-riders. Una sociedad o grupo cohesionado mantendrá redes de cooperación entre extraños y promoverá acciones de los individuos coherentes y con respeto por el bien común. En este sentido, los estudios que utilizan las teorías de la sociedad civil en cohesión social cuantifican la confianza interpersonal, la participación política, la asociatividad y la consistencia entre redes vecinales y de amistad.
 
 Las relaciones de confianza y cooperación tradicionales como la familia, no están consideradas en la sociedad civil, que deja de ser la extensión de la familia para pasar a ser una realidad emergente de relación con otros extraños y diferentes. Incluso, la teoría plantea que las relaciones familiares podrían ser capital social negativo al estar basadas en vínculos con conocidos e iguales. Permanecer entre iguales tiene a la discriminación como su expresión más negativa y, sobre todo, la desintegración producto de la violencia y la criminalidad. Sin embargo, en las teorías de la sociedad civil no es la discriminación el principal elemento de erosión de la cohesión social, sino que el temor que impide la construcción de redes de confianza. [@valenzuela_Vinculos_2008]
 
-La segunda tradición considera a la equidad como fuente de la cohesión social en una perspectiva que refiere al fundamento de la estructura social. La equidad se entiende como la capacidad de distribuir equitativamente el poder y el bienestar entre los individuos a través de mecanismos necesarios para lograrlo. En un escenario sin equidad, lo que prima es el conflicto del cuál el conflicto de clases es el más representativo. Así, la falta de cohesión social se traduciría en polarización entre grupos sociales. Esta conceptualización tiene un lado positivo y un lado negativo. El lado positivo es que la cohesión se consigue mediante arreglos que permitan la distribución equitativa de los bienes y, el lado negativo, es que muchas veces la solución a problemas de cohesión social es el autoritarismo.
+La segunda tradición considera a la equidad como fuente de la cohesión social en una perspectiva que refiere al fundamento de la estructura social. La equidad se entiende como la capacidad de distribuir equitativamente el poder y el bienestar entre los individuos a través de mecanismos necesarios para lograrlo. En un escenario sin equidad, lo que prima es el conflicto del cuál el antagonismo de clases es el más representativo. Así, la falta de cohesión social se traduciría en polarización entre grupos sociales. Esta conceptualización tiene un lado positivo y un lado negativo. El lado positivo es que la cohesión se consigue mediante arreglos que permitan la distribución equitativa de los bienes y, el lado negativo, es que muchas veces la solución a problemas de cohesión social es el autoritarismo.
 
 ECOsociAL no entrega una definición propia de cohesión social, sino que señala que la medición de la cohesión social en América Latina estará basada en estas dos tradiciones.
 
@@ -63,230 +34,54 @@ ECOsociAL no entrega una definición propia de cohesión social, sino que señal
 
 El cuestionario puso énfasis en temáticas como: movilidad social; distribución de oportunidades; legitimación de diferencias socioeconómicas; polarización socio-económica, religiosa y política; confianza social e institucional; exclusión; temor e inseguridad; segregación urbana; solidaridad familiar; legitimación de la violencia política; lealtad democrática; fragmentación étnica y racial; fragmentación territorial y adhesión a Estado nacional.
 
-Como se ha señalado, ECOsociAL trasciende la visión institucional y la inclusión de los grupos excluidos ampliamente difundida en Europa y en experiencias presentes en este informe como la Australiana. Dada las particularidades del continente es que se vuelve necesaria la inclusión de el monitoreo del estado de salud de las relaciones de las comunidades y su sustrato cultural, incluyendo la adhesión a la nación.
+Como se ha señalado, ECOsociAL trasciende la visión institucional y la inclusión de los grupos excluidos ampliamente difundida en Europa y en experiencias presentes en este informe como la Australiana. Dada las particularidades del continente es que se vuelve necesaria la inclusión del monitoreo del estado de salud de las relaciones de las comunidades y su sustrato cultural, incluyendo la adhesión a la nación.
 
-*La calidad de la convivencia social*
+### *La calidad de la convivencia social*
 
--   Confianza social: la medición de confianza se realizó a través de
-    dos indicadores: la frase "se puede confiar en la mayoría de las
-    personas o hay que tener cuidado con ellas" y la frase "la mayoría
-    de la gente actúa correctamente con uno o la mayoría trata de
-    aprovecharse".
+-   **Confianza social:** la medición de confianza se realizó a través de dos indicadores: la frase "se puede confiar en la mayoría de las personas o hay que tener cuidado con ellas" y la frase "la mayoría de la gente actúa correctamente con uno o la mayoría trata de aprovecharse".
 
--   Solidaridad familiar: Para la medición de solidaridad familiar se
-    incluyen tres medidas de apego familiar, "las personas deben
-    permanecer en contacto con su familia más cercana aún cuando no
-    tengan mucho en común", "las personas deben permanecer en contacto
-    con su familia más lejana como tíos, sobrinos o primos aún cuando no
-    tengan mucho en común", y "en general lo paso mejor con mis amigos
-    que con mi familia". A su vez, la solidaridad intergeneracional se
-    mide con tres indicadores: "cuando los hijos se van de la casa, no
-    deberían esperar que los padres los sigan ayudando económicamente",
-    "cuando los padres envejecen, los hijos deberían hacerse cargo de
-    ellos económicamente" y "preferiría que mis hijos solteros se
-    quedaran en casa, aun cuando tengan la capacidad de valerse por sí
-    mismos".
+-   **Solidaridad familiar:** Para la medición de solidaridad familiar se incluyen tres medidas de apego familiar, "las personas deben permanecer en contacto con su familia más cercana aún cuando no tengan mucho en común", "las personas deben permanecer en contacto con su familia más lejana como tíos, sobrinos o primos aún cuando no tengan mucho en común", y "en general lo paso mejor con mis amigos que con mi familia". A su vez, la solidaridad intergeneracional se mide con tres indicadores: "cuando los hijos se van de la casa, no deberían esperar que los padres los sigan ayudando económicamente", "cuando los padres envejecen, los hijos deberían hacerse cargo de ellos económicamente" y "preferiría que mis hijos solteros se quedaran en casa, aun cuando tengan la capacidad de valerse por sí mismos".
 
--   Relaciones de amistad, vecindad y asociatividad: la asociatividad se
-    midió a través de las declaraciones de participación en las
-    principales organizaciones sociales. Para las relaciones de amistad
-    y vecindad se pregunta sobre el número de amigos cercanos y de
-    vecinos que se conocen por su nombre. Adicionalmente, para evaluar
-    la calidad de los contactos se pregunta sobre la frecuencia de
-    contactos declarados con familiares, amigos y vecinos.
+-   **Relaciones de amistad, vecindad y asociatividad:** la asociatividad se midió a través de las declaraciones de participación en las principales organizaciones sociales. Para las relaciones de amistad y vecindad se pregunta sobre el número de amigos cercanos y de vecinos que se conocen por su nombre. Adicionalmente, para evaluar la calidad de los contactos se pregunta sobre la frecuencia de contactos declarados con familiares, amigos y vecinos.
 
--   Tolerancia y discriminación: ECOsociAL incluye la medición del
-    sentimiento de exclusión a partir de tres indicadores sobre la
-    calidad de la integración en la comunidad próxima: "en general lo
-    que yo piense no le importa mucho a nadie", "siempre me dejan al
-    margen de las cosas que ocurren a mi alrededor" y "siento que la
-    gente que me rodea haría poco para ayudarme si me pasara algo" . La
-    segregación residencial ha sido estimada mediante la clasificación
-    propia y de los vecinos en general en la escala de estratificación
-    de diez puntos que se ha utilizado en el análisis de la movilidad
-    social. En la discriminación se incluye la frecuencia con que ha
-    sido discriminado por distintas razones: el color de piel, raza o
-    etnia, la religión, la condición de pobreza o preferencia política.
-    Para medir tolerancia se ha preguntado sobre situaciones
-    particulares que comprometen a los hijos como casarse con alguien de
-    una clase social más baja, tener un amigo/a homosexual o casarse con
-    alguien que no tiene religión. Algo similar se realiza para la
-    tolerancia en las relaciones vecinales en donde las situaciones
-    específicas son tener vecinos de una clase social más baja, o tener
-    como vecinos a trabajadores inmigrantes o personas de otra raza.
-    Otro de los aspectos considerados en cuando a la apertura social es
-    la homogamia en tres dimensiones diferentes que son etnia, religión
-    y educación que a su vez es un indicador de apertura social. Se
-    incorpora también la medición de la polarización religiosa a través
-    de la identificación y hostilidad hacia distintas religiones. Lo
-    mismo para la polarización étnica.
+-   **Tolerancia y discriminación:** ECOsociAL incluye la medición del sentimiento de exclusión a partir de tres indicadores sobre la calidad de la integración en la comunidad próxima: "en general lo que yo piense no le importa mucho a nadie", "siempre me dejan al margen de las cosas que ocurren a mi alrededor" y "siento que la gente que me rodea haría poco para ayudarme si me pasara algo". La segregación residencial ha sido estimada mediante la clasificación propia y de los vecinos en general en la escala de estratificación de diez puntos que se ha utilizado en el análisis de la movilidad social. En la discriminación se incluye la frecuencia con que ha sido discriminado por distintas razones: el color de piel, raza o etnia, la religión, la condición de pobreza o preferencia política. Para medir tolerancia se ha preguntado sobre situaciones particulares que comprometen a los hijos como casarse con alguien de una clase social más baja, tener un amigo/a homosexual o casarse con alguien que no tiene religión. Algo similar se realiza para la tolerancia en las relaciones vecinales en donde las situaciones específicas son tener vecinos de una clase social más baja, o tener como vecinos a trabajadores inmigrantes o personas de otra raza. Otro de los aspectos considerados en cuando a la apertura social es la homogamia en tres dimensiones diferentes que son etnia, religión y educación que a su vez es un indicador de apertura social. Se incorpora también la medición de la polarización religiosa a través de la identificación y hostilidad hacia distintas religiones. Lo mismo para la polarización étnica.
 
--   Calidad de la vida de barrio, temor y victimización: la calidad de
-    vida en el barrio se ha medido con tres indicadores para
-    confeccionar un índice de desorganización social que son vandalismo
-    o ataques intencionales a la propiedad privada, robos y asaltos, y
-    balaceras, riñas o violencia callejera; para victimización se
-    consideran los reportes de victimización anual para robo en la casa
-    y en la calle e intimidación con arma de fuego y violencia,
-    cualquiera sea su origen, sea directa o indirecta ("alguien que vive
-    en su casa"); para el temor se utilizan declaraciones de temor o
-    inseguridad para cuando se está sólo en la casa de día o de noche o
-    fuera de la casa, caminando por el barrio o en el centro de la
-    ciudad al anochecer. Dentro de la misma desorganización social se
-    pregunta sobre si se justifica o no poseer un arma de fuego en la
-    casa para defenderse y si se está o no en posesión de una de ella.
+-   **Calidad de la vida de barrio, temor y victimización:** la calidad de vida en el barrio se ha medido con tres indicadores para confeccionar un índice de desorganización social que son vandalismo o ataques intencionales a la propiedad privada, robos y asaltos, y balaceras, riñas o violencia callejera; para victimización se consideran los reportes de victimización anual para robo en la casa y en la calle e intimidación con arma de fuego y violencia, cualquiera sea su origen, sea directa o indirecta ("alguien que vive en su casa"); para el temor se utilizan declaraciones de temor o inseguridad para cuando se está sólo en la casa de día o de noche o fuera de la casa, caminando por el barrio o en el centro de la ciudad al anochecer. Dentro de la misma desorganización social se pregunta sobre si se justifica o no poseer un arma de fuego en la casa para defenderse y si se está o no en posesión de una de ella.
 
-*La calidad de la convivencia política*
+### *La calidad de la convivencia política*
 
--   Democracia y derechos: la calidad de la integración institucional se
-    mide mediante tres frases que son "a la gente que dirige el país no
-    le importa lo que le pase a personas como uno", "las autoridades no
-    harían nada si hubiera un problema grave en mi barrio o vecindario"
-    y "la mayor parte de las personas con poder sólo tratan de
-    aprovecharse de personas como yo". La lealtad a la democracia se
-    mide con el grado de acuerdo con las frases "es mejor la democracia
-    a cualquier otra forma de gobierno" (que incluye como anverso la
-    preferencia por "un gobierno de autoridad fuerte en manos de una
-    persona" y "da lo mismo una u otra forma de gobierno") y "los
-    derechos de las personas se deben respetar en toda circunstancia"
-    (que tiene como anverso "los criminales no deben tener los mismos
-    derechos que las personas honestas").
+-   **Democracia y derechos:** la calidad de la integración institucional se mide mediante tres frases que son "a la gente que dirige el país no le importa lo que le pase a personas como uno", "las autoridades no harían nada si hubiera un problema grave en mi barrio o vecindario" y "la mayor parte de las personas con poder sólo tratan de aprovecharse de personas como yo". La lealtad a la democracia se mide con el grado de acuerdo con las frases "es mejor la democracia a cualquier otra forma de gobierno" (que incluye como anverso la preferencia por "un gobierno de autoridad fuerte en manos de una persona" y "da lo mismo una u otra forma de gobierno") y "los derechos de las personas se deben respetar en toda circunstancia" (que tiene como anverso "los criminales no deben tener los mismos derechos que las personas honestas").
 
--   Confianza en instituciones: ECosociAL-2007 mide los niveles de
-    confianza declarada en el gobierno, el congreso o parlamento y los
-    alcaldes, ediles o intendentes según sea el caso de cada país.
-    Adicionalmente se incluye la confianza en el presidente, diputados y
-    alcaldes.
+-   **Confianza en instituciones:** ECosociAL-2007 mide los niveles de confianza declarada en el gobierno, el congreso o parlamento y los alcaldes, ediles o intendentes según sea el caso de cada país. Adicionalmente se incluye la confianza en el presidente, diputados y alcaldes.
 
--   Violencia y riesgo político: la experiencia de vida democrática se
-    mide con el riesgo político observado en el riesgo asociado a los
-    eventos de "decir lo que se piensa de la política y de los
-    políticos", "participar en partidos políticos de oposición",
-    "participar en manifestaciones contra la autoridad", "ser detenido o
-    maltratado por la policía sin razón aparente", "que la autoridad o
-    policía registre la casa sin orden judicial" y que "algún policía,
-    juez o autoridad de gobierno exija un pago, coima o mordida por
-    algo". En cuanto a la legitimación de la violencia se preguntó si es
-    justificable que se promueva o defienda determinadas causas usando
-    la fuerza o la violencia. Las causas específicas propuestas son:
-    "las minorías indígenas que reclaman sus tierras ancestrales"
-    (violencia étnica); la "defensa del medio ambiente" (violencia
-    medioambiental); "los pobres que reclaman mejores condiciones de
-    vida" (violencia social); "cuando se procura hacer cambios
-    revolucionarios en la sociedad" (violencia revolucionaria); y cuando
-    se trata de "oponerse a una dictadura" (violencia democrática).
+-   **Violencia y riesgo político:** la experiencia de vida democrática se mide con el riesgo político observado en el riesgo asociado a los eventos de "decir lo que se piensa de la política y de los políticos", "participar en partidos políticos de oposición", "participar en manifestaciones contra la autoridad", "ser detenido o maltratado por la policía sin razón aparente", "que la autoridad o policía registre la casa sin orden judicial" y que "algún policía, juez o autoridad de gobierno exija un pago, coima o mordida por algo". En cuanto a la legitimación de la violencia se preguntó si es justificable que se promueva o defienda determinadas causas usando la fuerza o la violencia. Las causas específicas propuestas son: "las minorías indígenas que reclaman sus tierras ancestrales" (violencia étnica); la "defensa del medio ambiente" (violencia medioambiental); "los pobres que reclaman mejores condiciones de vida" (violencia social); "cuando se procura hacer cambios revolucionarios en la sociedad" (violencia revolucionaria); y cuando se trata de "oponerse a una dictadura" (violencia democrática).
 
--   Distancia con autoridades: se ha medido la polarización política a
-    través de la identificación y hostilidad hacia el gobierno.
+-   **Distancia con autoridades:** se ha medido la polarización política a través de la identificación y hostilidad hacia el gobierno.
 
--   Adhesión a la nación: el vínculo con la nación es medido a través de
-    cuatro indicadores de nacionalismo, "tomando todo lo bueno y lo
-    malo, me siento orgulloso de la historia de mi país" (nacionalismo
-    histórico), "mi país debería defender sus intereses como nación aun
-    cuando ello conduzca a conflictos con otros países" (nacionalismo
-    geopolítico) "mi país debería limitar la importación de productos
-    extranjeros para proteger su economía nacional" (nacionalismo
-    económico) y "la televisión de mi país debería dar preferencias a
-    películas y programas nacionales" (nacionalismo cultural). La
-    identificación se mide respecto a la nación, ciudad/región o étnia,
-    y a su vez se compara la importancia dada a la nación versus las
-    otras dos (más importante la nación, menos importante la nación o
-    igual de importantes).
+-   **Adhesión a la nación:** el vínculo con la nación es medido a través de cuatro indicadores de nacionalismo, "tomando todo lo bueno y lo malo, me siento orgulloso de la historia de mi país" (nacionalismo histórico), "mi país debería defender sus intereses como nación aun cuando ello conduzca a conflictos con otros países" (nacionalismo geopolítico) "mi país debería limitar la importación de productos extranjeros para proteger su economía nacional" (nacionalismo económico) y "la televisión de mi país debería dar preferencias a películas y programas nacionales" (nacionalismo cultural). La identificación se mide respecto a la nación, ciudad/región o etnia, y a su vez se compara la importancia dada a la nación versus las otras dos (más importante la nación, menos importante la nación o igual de importantes).
 
-*Percepción de oportunidades y movilidad social*
+### *Percepción de oportunidades y movilidad social*
 
--   Percepción de oportunidades y movilidad social: la percepción de
-    oportunidades es medida a través de seis indicadores dos de ellos
-    corresponden a percepción de oportunidades educativas (probabilidad
-    de terminar la enseñanza secundaria y de ingresar a la universidad),
-    y los otros cuatro a oportunidades de bienestar (salir de la
-    pobreza, establecerse independientemente, adquirir una vivienda
-    propia y ascender laboralmente cuando se es una mujer).
+- **Percepción de oportunidades y movilidad social:** la percepción de oportunidades es medida a través de seis indicadores dos de ellos corresponden a percepción de oportunidades educativas (probabilidad de terminar la enseñanza secundaria y de ingresar a la universidad), y los otros cuatro a oportunidades de bienestar (salir de la pobreza, establecerse independientemente, adquirir una vivienda propia y ascender laboralmente cuando se es una mujer).
 
--   Identificación socioeconómica: se ha medido a través de la
-    identificación y hostilidad con clase baja, media y alta.
+- **Identificación socioeconómica:** se ha medido a través de la identificación y hostilidad con clase baja, media y alta.
 
--   Oportunidades y vulnerabilidad: se pregunta sobre las oportunidades
-    que tienen distintos perfiles de personas en el país. Son seis los
-    indicadores incluidos: "oportunidades de un joven común y corriente
-    de terminar la enseñanza media", "un joven inteligente pero sin
-    recursos de ingresar a la universidad", "cualquier persona de
-    iniciar su propio negocio y establecerse independientemente", "una
-    mujer de alcanzar una buena posición en su trabajo", "cualquier
-    trabajador de adquirir su vivienda en un tiempo razonable" y "un
-    pobre de salir de la pobreza". Por otro lado, se pregunta sobre la
-    probabilidad de que le ocurran al encuestado o algún miembro de su
-    familia dos eventos específicos: perder empleo y enfermedad que
-    desestabilice el presupuesto familiar.
+- **Oportunidades y vulnerabilidad:** se pregunta sobre las oportunidades que tienen distintos perfiles de personas en el país. Son seis los indicadores incluidos: "oportunidades de un joven común y corriente de terminar la enseñanza media", "un joven inteligente pero sin recursos de ingresar a la universidad", "cualquier persona de iniciar su propio negocio y establecerse independientemente", "una mujer de alcanzar una buena posición en su trabajo", "cualquier trabajador de adquirir su vivienda en un tiempo razonable" y "un pobre de salir de la pobreza". Por otro lado, se pregunta sobre la probabilidad de que le ocurran al encuestado o algún miembro de su familia dos eventos específicos: perder empleo y enfermedad que desestabilice el presupuesto familiar.
 
--   Movilidad social: la movilidad educativa se mide a través de la
-    comparación que realiza el encuestado con el nivel educacional de
-    los padres. Para medir la movilidad social los encuestados realizan
-    una clasificación (en una escala de 10 puntos) diseñada para obtener
-    percepciones de la movilidad intrageneracional experimentada
-    (comparación entre autoposicionamiento actual y hace diez años) y
-    movilidad intergeneracional experimentada (comparación con
-    posicionamiento de los padres hace 15 años y autoposicionamiento
-    actual). Asimismo, esto es medido en tanto a expectativa de
-    movilidad social o como esta se proyecta en el tiempo de forma
-    intrageneracional (comparación entre autoposicionamiento actual e
-    intergeneracional (comparación con posicionamiento que proyecta para
-    los hijos cuando tengan la edad actual de quien responde).
+- **Movilidad social:** la movilidad educativa se mide a través de la comparación que realiza el encuestado con el nivel educacional de los padres. Para medir la movilidad social los encuestados realizan una clasificación (en una escala de 10 puntos) diseñada para obtener percepciones de la movilidad intrageneracional experimentada (comparación entre autoposicionamiento actual y hace diez años) y movilidad intergeneracional experimentada (comparación con posicionamiento de los padres hace 15 años y autoposicionamiento actual). Asimismo, esto es medido en tanto a expectativa de movilidad social o como esta se proyecta en el tiempo de forma intrageneracional (comparación entre autoposicionamiento actual e intergeneracional (comparación con posicionamiento que proyecta para los hijos cuando tengan la edad actual de quien responde).
 
--   Legitimación de diferencias socio-económicas: se evaluaron por las
-    razones de la riqueza y de la pobreza en dos pares de frases. El
-    primer par apunta a razones adscriptivas (dinero heredado,
-    influencia y contactos en el caso de la riqueza y pobreza heredada y
-    discriminación social en el caso de la pobreza); el segundo par
-    reúne razones adquisitivas o de logro (iniciativa y trabajo duro en
-    el caso de la riqueza y flojera, falta de iniciativa, vicios y
-    alcoholismo en el caso de la pobreza).
+- **Legitimación de diferencias socio-económicas:** se evaluaron por las razones de la riqueza y de la pobreza en dos pares de frases. El primer par apunta a razones adscriptivas (dinero heredado, influencia y contactos en el caso de la riqueza y pobreza heredada y discriminación social en el caso de la pobreza); el segundo par reúne razones adquisitivas o de logro (iniciativa y trabajo duro en el caso de la riqueza y flojera, falta de iniciativa, vicios y alcoholismo en el caso de la pobreza).
 
--   Desigualdad: se incluyen dos pares de oraciones sobre cuál es la
-    mejor sociedad. El primer par es "la que recompensa el esfuerzo
-    individual" y "la que produce mayor igualdad social". El segundo par
-    de frases es "la que permite progresar a cada individuo, aunque crea
-    desigualdad" y "la más igualitaria, aunque frene a los más capaces".
-    En esta dimensión se incluye el rol del Estado frente a la
-    desigualdad con dos pares de oraciones al igual que el caso
-    anterior: el primer par es "subir impuestos y aumentar gasto social"
-    y "reducir impuestos aunque baje gasto social"; y el segundo par es
-    "Estado debe darle oportunidades a cada uno" y "búsqueda de
-    oportunidades es obligación individual".
+- **Desigualdad:** se incluyen dos pares de oraciones sobre cuál es la mejor sociedad. El primer par es "la que recompensa el esfuerzo individual" y "la que produce mayor igualdad social". El segundo par de frases es "la que permite progresar a cada individuo, aunque crea desigualdad" y "la más igualitaria, aunque frene a los más capaces". En esta dimensión se incluye el rol del Estado frente a la desigualdad con dos pares de oraciones al igual que el caso anterior: el primer par es "subir impuestos y aumentar gasto social" y "reducir impuestos aunque baje gasto social"; y el segundo par es "Estado debe darle oportunidades a cada uno" y "búsqueda de oportunidades es obligación individual".
 
-*Felicidad*: se mide con un indicador único de la declaración del
-encuestado si es que se siente feliz.
+- **Felicidad:** se mide con un indicador único de la declaración del encuestado si es que se siente feliz.
 
 ## Referencias
 
-1.  Valenzuela, E., Schwartzman, S., Biehl, A., & Valenzuela, J. S.
-    (2008). Vínculos, creencias e ilusiones. La cohesión social de los
-    latinoamericanos.
+1.  Valenzuela, E., Schwartzman, S., Biehl, A., & Valenzuela, J. S. (2008). Vínculos, creencias e ilusiones. La cohesión social de los latinoamericanos.
+    
+    Esta es la principal publicación de la Encuesta ECOsociAL 2007. En él se puede encontrar la conceptualización y la revisión de cada uno de los módulos en los distintos capítulos del libro.\
 
-    Esta es la principal publicación de la Encuesta ECOsociAL 2007. En
-    él se puede encontrar la conceptualización y la revisión de cada uno
-    de los módulos en los distintos capítulos del libro.\
+2.  Somma, N. M., & Valenzuela, E. (2015). Las paradojas de la cohesión social en América Latina. Revista del CLAD Reforma y Democracia, (61), 43-74.
 
-2.  Somma, N. M., & Valenzuela, E. (2015). Las paradojas de la cohesión
-    social en América Latina. Revista del CLAD Reforma y Democracia,
-    (61), 43-74.
-
-    Los autores utilizan los datos de la encuesta ECOsociAL 2007, en
-    complemento con la encuesta mundial de valores, para estudiar tres
-    paradojas que plantean en el caso de la cohesión social
-    latinoamericana en comparación al llamado mundo desarrollado. Las
-    tres paradojas son las siguientes: primero, ¿cómo puede prevalecer
-    en la región más desigual del mundo, que a su vez es bastante rígida
-    en términos de movilidad ocupacional, la creencia de que las
-    desigualdades socioeconómicas obedecen a factores individuales antes
-    que estructurales, así como un insospechado optimismo respecto a la
-    movilidad ascendente futura de los individuos y sus familias?
-    Segundo, ¿cómo pueden mantenerse en pie las instituciones políticas
-    a pesar de los magros desempeños de los gobiernos y los bajos
-    niveles de participación y confianza que suscitan en la población?
-    Y, por último, ¿cómo es posible que los latinoamericanos no sean más
-    intolerantes hacia los demás que los ciudadanos del norte
-    desarrollado, dados sus bajos niveles de confianza interpersonal y
-    la escasa vida asociativa? Además de documentar empíricamente estas
-    paradojas se presentan algunas hipótesis preliminares orientadas a
-    resolverlas.
+    Los autores utilizan los datos de la encuesta ECOsociAL 2007, en complemento con la encuesta mundial de valores, para estudiar tres paradojas que plantean en el caso de la cohesión social latinoamericana en comparación al llamado mundo desarrollado. Las tres paradojas son las siguientes: primero, ¿cómo puede prevalecer en la región más desigual del mundo, que a su vez es bastante rígida en términos de movilidad ocupacional, la creencia de que las desigualdades socioeconómicas obedecen a factores individuales antes que estructurales, así como un insospechado optimismo respecto a la movilidad ascendente futura de los individuos y sus familias? Segundo, ¿cómo pueden mantenerse en pie las instituciones políticas a pesar de los magros desempeños de los gobiernos y los bajos niveles de participación y confianza que suscitan en la población? Y, por último, ¿cómo es posible que los latinoamericanos no sean más intolerantes hacia los demás que los ciudadanos del norte desarrollado, dados sus bajos niveles de confianza interpersonal y la escasa vida asociativa? Además de documentar empíricamente estas paradojas se presentan algunas hipótesis preliminares orientadas a resolverlas.

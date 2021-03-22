@@ -1,9 +1,3 @@
----
-editor_options:
-  markdown:
-    wrap: 72
----
-
 # Mapping Social Cohesion
 
 ## Descripción General
@@ -32,25 +26,28 @@ Initiative.
 La conceptualización de @jenson1998mapping ha sido un recurso de suma importancia para trabajos posteriores como el Scalon-Monash Index australiano, que lo utiliza como punto de partida. Para Jenson (1998), la cohesión social es más un proceso que un estado o condición, involucrando un sentido de compromiso, y deseo o capacidad de vivir juntos en armonía. La revisión conceptual lleva a plantear que la literatura ha reconocido a la cohesión social como una característica de la
 sociedad y no de los individuos.
 
-El concepto de cohesión social es un concepto con historia, y partiendo de esta premisa es que @jenson2010defining plantea que han existido tres familias vinculadas al concepto con diferences aplicaciones empíricas:
+El concepto de cohesión social es un concepto con historia, y partiendo de esta premisa es que @jenson2010defining plantea que han existido tres familias vinculadas al concepto con diferentes aplicaciones empíricas:
 
-- La primera vincula la cohesión social a la noción de _inclusión social_. A comienzo de los '80 la OCDE decidió revisar el concepto de cohesión social en orden a hacerlo compatible con la restructuración económica de los países miembros y a la vez sustentable en el tiempo. En este uso, se desprendía que la OCDE estaba homologando cohesión social con estabilidad social. Ya a comienzos del siglo XXI la UE orientaba sus políticas sociales en la misma dirección y definía el desarrollo económico y la cohesión social como objetivos principales. El Council of Europe (organismo de la Unión Europea) señalaba explícitamente: *"Social cohesion, as defined by the Directorate General of Social Cohesion of the Council of Europe, is a concept that includes values and principles which aim to ensure that all citizens, without discrimination and on an equal footing, have access to fundamental social and economic rights*". Se debe considerar que en esta conceptualización se tomó cuidado en sugerir que la integración no implicaba necesariamente formas tradicionales de integración social, siendo un concepto para una sociedad abierta y multicultural. No obstante, @jenson2010defining agrega que realmente no se estaba entregando una conceptualización clara de lo que significaba cohesión social: "it does not define social cohesion as such but seeks to identify some of the factors in social cohesion ..." (Jenson, 2010:5)
+* La primera vincula la cohesión social a la noción de _inclusión social_. A comienzo de los '80 la OCDE decidió revisar el concepto de cohesión social en orden a hacerlo compatible con la reestructuración económica de los países miembros y a la vez sustentable en el tiempo. En este uso, se desprendía que la OCDE estaba homologando cohesión social con estabilidad social. Ya a comienzos del siglo XXI la UE orientaba sus políticas sociales en la misma dirección y definía el desarrollo económico y la cohesión social como objetivos principales. El Council of Europe (organismo de la Unión Europea) señalaba explícitamente: *"Social cohesion, as defined by the Directorate General of Social Cohesion of the Council of Europe, is a concept that includes values and principles which aim to ensure that all citizens, without discrimination and on an equal footing, have access to fundamental social and economic rights*". Se debe considerar que en esta conceptualización se tomó cuidado en sugerir que la integración no implicaba necesariamente formas tradicionales de integración social, siendo un concepto para una sociedad abierta y multicultural. No obstante, @jenson2010defining agrega que realmente no se estaba entregando una conceptualización clara de lo que significaba cohesión social: "it does not define social cohesion as such but seeks to identify some of the factors in social cohesion ..." (Jenson, 2010:5)
 
-- La segunda línea de conceptualización de la cohesión social lo hace en relación a _capital social_ o, incluso, como sinónimos. Para esta tradición el capital social es la herramienta práctica para lograr la cohesión social. El capital social no tan solo entrega recursos a los invididuos, como acceso a servicios especiales a menor costo o para que alguien cuide al hijo de una madre que debe ir a trabajar, sino que produce un bien colectivo al tener sociedades más saludables. A esta conceptualización liderada por Putnam, le siguieron una serie de críticas sobre su carácter positivo y si realmente era social considerando su enfoque focalizado en el individuo. Esto produjo el refinamiento del concepto introduciendose los conceptos de capital social bridging, bonding y linking.
+* La segunda línea de conceptualización de la cohesión social lo hace en relación a _capital social_ o, incluso, como sinónimos. Para esta tradición el capital social es la herramienta práctica para lograr la cohesión social. El capital social no solo entrega recursos a los individuos, como acceso a servicios especiales a menor costo o para que alguien cuide al hijo de una madre que debe ir a trabajar, sino que produce un bien colectivo al tener sociedades más saludables. A esta conceptualización liderada por Putnam, le siguieron una serie de críticas sobre su carácter positivo y si realmente era social considerando su enfoque focalizado en el individuo. Esto produjo el refinamiento del concepto, incorporándose los conceptos de la teoría del capital, tales como el _social bridging_, _bonding_ y _linking_.
 
-- Y finalmente, una tercera familia de estudios se focaliza en las instituciones y la gobernanza liderada principalmente por el Banco Mundial. Esta definición se superpone a las dos anteriores, pero toma un caracter distinto. Señalan que los resultados económicos dependen de instituciones efectivas, y esta a su vez de la cohesión social. Por lo tanto, construir cohesión social es una tarea vital para el desarrollo. El desafío está puesto en la inclusión de las personas en la provisión de servicios públicos de forma equitativa y eficiente.
+* Y finalmente, una tercera familia de estudios se focaliza en las instituciones y la gobernanza liderada principalmente por el Banco Mundial. Esta definición se superpone a las dos anteriores, pero toma un carácter distinto. Señalan que los resultados económicos dependen de instituciones efectivas, y esta a su vez de la cohesión social. Por lo tanto, construir cohesión social es una tarea vital para el desarrollo. El desafío está puesto en la inclusión de las personas en la provisión de servicios públicos de forma equitativa y eficiente. 
+ 
+Si bien @jenson2010defining no entrega una definición propia de la cohesión social, sino que una revisión del estado del arte en la materia, la Social Cohesion Network reemplaza su definición de cohesión social basada en valores por una más funcionalista fijada en las conductas: "la cohesión social está basada en la disposición de los individuos a cooperar y trabajar en todos los niveles de la sociedad para lograr metas comunes" [@Jeannote2003]. 
 
-Si bien @jenson2010defining no entrega una definición propia de la cohesión social, sino que una revisión del estado del arte en la materia, la Social Cohesion Network reemplaza su definición de cohesión social basada en valores por una más funcionalista fijada en las conductas: "la cohesión social está basada en la disposición de los individuos a cooperar y trabajar en todos los niveles de la sociedad para lograr metas comunes" [@Jeannote2003]
+La ventaja de esta definición, y que la ha llevado a ser un referente para posteriores experiencias en todo el mundo, es que se focaliza claramente en los resultados de la cohesión social y en el conjunto de indicadores para medir el stock de cohesión social en la sociedad (trabajar juntos, metas colectivas, cooperación, etc). La tarea se simplifica si consideramos desde la definición la igualdad de oportunidades, las metas compartidas y valores.
 
-La ventaja de esta definición, y que la ha llevado a ser un referente para posteriores experiencias en todo el mundo, es que se focaliza claramente en los resultados de la cohesión social y en el conjunto de indicadores para medir el stock de cohesión social en la sociedad ( trabajar juntos, metas colectivas, cooperación, etc.). La tarea se simplifica si consideramos desde la definición la igualdad de oportunidades, las metas compartidas y valores.
+\newpage
 
 ## Operacionalización
 
 ```{r mapping, echo=FALSE, fig.cap="Operacionalización de Mapping Social Cohesion"}
 knitr::include_graphics(path = "inputs/images/mapping.jpg")
 ```
-El concepto de cohesión social es operacionalizado inicialmente en 5
-dimensiones.
+
+
+El concepto de cohesión social es operacionalizado inicialmente en 5 dimensiones.
 
 1.  Pertenencia/aislamiento: esta dimensión es más o menos compartida por toda la literatura, y señala el grado en que los sujetos comparten valores e identidades colectivas. Valores compartidos permiten desarrollar un sentido de pertenencia y a la vez generar un sentido de comunidad.
 
@@ -62,11 +59,11 @@ dimensiones.
 
 5.  Legitimidad/ilegitimidad: se señala que la intermediación necesaria para vivir con los conflictos de valores no depende de los sujetos, sino que es producto de las instituciones. Por lo tanto, en última instancia la cohesión social depende de la legitimidad que tienen las instituciones públicas y privadas en asegurar la cohesión social.
 
-Con esto en mente, @jenson2010defining plantea tres set de indicadores. Un primer set de indicadores (1 - 5) corresponde a mediciones de disparidades sociales, y las brechas indicarías acceso desigual a recursos económicos y a servicios sociales básicos.
+Con esto en mente, @jenson2010defining plantea tres set de indicadores. Un primer set de indicadores (1 - 5) corresponde a mediciones de disparidades sociales, y las brechas indican acceso desigual a recursos económicos y a servicios sociales básicos.
 
 1.  Cohesión social como inclusión social relacionada al acceso de recursos financieros:
 
-  -   Coeficiente de Ginni
+  -   Coeficiente de Gini
   -   Mediciones de ingresos
   -   Mediciones de pobreza (población viviendo con menos de 1 dolar, población viviendo con menos de 2 dólares y población bajo la línea de pobreza).
 
@@ -118,10 +115,7 @@ El tercer y último grupo de indicadores (7 - 8) corresponde a las dimensiones d
 1.  Jeannotte, M. (2003). Social Cohesion: Insights From Canadian
     Research. Presented at the Conference on Social Cohesion, Hong Kong.
 
-    En esta presentación la autora resume el trabajo de Jenson y la
-    influencia que este ha tenido en la conceptualización de la cohesión
-    social. Asimismo, es importante destacar que lo complementa los trabajos
-    de Bernard en Canadá.
+    En esta presentación la autora resume el trabajo de Jenson y la influencia que este ha tenido en la conceptualización de la cohesión social. Asimismo, es importante destacar que es complementado en base a los trabajos de Bernard en Canadá.
 
 2.  Jenson, J. (1998). Mapping social cohesion: The state of Canadian
     research (No. F03). Ottawa: CPRN.
