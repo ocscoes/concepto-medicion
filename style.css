@@ -14,9 +14,6 @@ pre code {
 }
 
 
-.book .book-summary {
-    background-color: #467fbf;
-}
 
 
 .book .book-body .page-wrapper .page-inner section.normal blockquote, .book .book-body .page-wrapper .page-inner section.normal dl, .book .book-body .page-wrapper .page-inner section.normal ol, .book .book-body .page-wrapper .page-inner section.normal p, .book .book-body .page-wrapper .page-inner section.normal table, .book .book-body .page-wrapper .page-inner section.normal ul {
@@ -41,6 +38,10 @@ pre code {
 }
 
 
+.book .book-summary {
+    background-color: #20252b; /*COLOR DE FONDO DE TOC*/
+}
+
 .book .book-summary ul.summary li a, .book .book-summary ul.summary li span {
     display: block;
     padding: 10px 15px;
@@ -51,4 +52,9 @@ pre code {
     overflow: hidden;
     white-space: nowrap;
     position: relative;
+}
+
+
+element.style {
+    background-color: #20252b;
 }

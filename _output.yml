@@ -1,18 +1,18 @@
 bookdown::gitbook:
  # split_by: section
-  css: style.css
+  css: "style.css"
   config:
     toc:
       before: |
-        <li><a href="./">Cohesión Social </a></li>
+        <li><a href="./">Medición Cohesión Social </a></li>
       after: |
-        <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+        <li><a href="https://github.com/ocscoes/concepto-medicion" target="blank">Publicado con bookdown</a></li>
     fontsettings:
       theme: white
       family: sans
       size: 2
     download: ["pdf"]
-    edit: https://github.com/jciturras/dossier-line02%s
+    edit: null
     sharing:
       facebook: yes
       github: yes

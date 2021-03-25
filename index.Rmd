@@ -6,11 +6,7 @@ date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib, book-ocs.bib]
-# csl: "inputs/bib/apa-no-ampersand.csl"
-# csl: "inputs/bib/apa-es.csl"
 biblio-style: apalike
-# biblio-style: "inputs/bib/apalike-es.bst"
-# citation_package: natbib
 link-citations: yes
 linkcolor: blue
 # description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
@@ -21,7 +17,8 @@ toc-depth: 1
 lof: True
 lot: True
 # lang: es
-
+github-repo: "ocscoes/concepto-medicion"
+url: "https://ocscoes.github.io/concepto-medicion/"
 ---
 
 ```{r setup, include=FALSE}
@@ -29,17 +26,17 @@ knitr::opts_chunk$set(warning = FALSE,message = FALSE, cache = FALSE,out.width =
 # knitr::opts_knit$set(base.url = "../") #relative path for .html output file
 # knitr::opts_knit$set(root.dir = "../") #relative path for chunks within .rmd files
 options(scipen=999)
-rm(list=ls())
+rm(list=ls()) 
 options(knitr.kable.NA = '',linesep = "")
 options(knitr.graphics.error = FALSE)
 # Sys.setlocale("LC_ALL", "ES_ES.UTF-8")
 ```
 
 ```{r message=FALSE, warning=FALSE, include=FALSE, echo=FALSE}
-pacman::p_load(knitr, kableExtra, dplyr,flextable,pander)
+pacman::p_load(knitr, kableExtra, dplyr,flextable,pander) 
 ```
 
-```{r echo=FALSE }
+```{r echo=FALSE } 
 is_word_output <- function(fmt = knitr:::pandoc_to()) {
   length(fmt) == 1 && fmt == "docx"
 }
