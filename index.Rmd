@@ -57,7 +57,7 @@ fullw = if(is_html_output()) {T} else if(is_latex_output()) {F}
 fsize = if(is_html_output()) {14} else if(is_latex_output()) {8}
 ```
 
-# Introducción {-}
+# Introducción
 
 Este documento tiene por objetivo describir y resumir diferentes aproximaciones conceptuales y metodológicas hacia el concepto de cohesión social. Originalmente fue desarrollado para servir como insumo en la generación del [Observatorio de Cohesión Social (OCS)](https://ocs-coes.netlify.app/) del Centro de Estudios de Conflicto y Cohesión Social (COES), cuyo objetivo es proponer indicadores de cohesión social con foco en américa latina basados en datos secundarios y permitir la realización de análisis en una plataforma interactiva.
 

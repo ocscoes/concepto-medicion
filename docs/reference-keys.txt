@@ -4,6 +4,7 @@ fig:scalon
 fig:radar
 tab:concepto
 fig:dimensiones
+introducción
 mapping-social-cohesion
 descripción-general
 concepto-de-cohesión-social
